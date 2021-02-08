@@ -1,0 +1,2863 @@
+  finished initialization
+ istep =           24 ntm =            1 time step =    4.800000      hour = 
+  3.4000009E-02
+ istep =           49 ntm =            2 time step =    4.800000      hour = 
+  6.7333363E-02
+ istep =           74 ntm =            3 time step =    4.800000      hour = 
+  0.1006666    
+ istep =           99 ntm =            4 time step =    4.800000      hour = 
+  0.1339999    
+ istep =          124 ntm =            5 time step =    4.800000      hour = 
+  0.1673331    
+ istep =          149 ntm =            6 time step =    4.800000      hour = 
+  0.2006664    
+ istep =          174 ntm =            7 time step =    4.800000      hour = 
+  0.2339996    
+ istep =          199 ntm =            8 time step =    4.800000      hour = 
+  0.2673329    
+ istep =          224 ntm =            9 time step =    4.800000      hour = 
+  0.3006663    
+ istep =          249 ntm =           10 time step =    4.800000      hour = 
+  0.3340000    
+ istep =          274 ntm =           11 time step =    4.800000      hour = 
+  0.3673337    
+ istep =          299 ntm =           12 time step =    4.800000      hour = 
+  0.4006673    
+ istep =          324 ntm =           13 time step =    4.800000      hour = 
+  0.4340010    
+ istep =          349 ntm =           14 time step =    4.800000      hour = 
+  0.4673347    
+ istep =          374 ntm =           15 time step =    4.800000      hour = 
+  0.5006683    
+ istep =          399 ntm =           16 time step =    4.800000      hour = 
+  0.5340021    
+ istep =          424 ntm =           17 time step =    4.800000      hour = 
+  0.5673357    
+ istep =          449 ntm =           18 time step =    4.800000      hour = 
+  0.6006693    
+ istep =          474 ntm =           19 time step =    4.800000      hour = 
+  0.6340030    
+ istep =          499 ntm =           20 time step =    4.800000      hour = 
+  0.6673367    
+ istep =          524 ntm =           21 time step =    4.800000      hour = 
+  0.7006704    
+ istep =          549 ntm =           22 time step =    4.800000      hour = 
+  0.7340040    
+ istep =          574 ntm =           23 time step =    4.800000      hour = 
+  0.7673377    
+ istep =          599 ntm =           24 time step =    4.800000      hour = 
+  0.8006714    
+ istep =          624 ntm =           25 time step =    4.800000      hour = 
+  0.8340051    
+ istep =          649 ntm =           26 time step =    4.800000      hour = 
+  0.8673387    
+ istep =          674 ntm =           27 time step =    4.800000      hour = 
+  0.9006724    
+ istep =          699 ntm =           28 time step =    4.800000      hour = 
+  0.9340061    
+ istep =          724 ntm =           29 time step =    4.800000      hour = 
+  0.9673398    
+ istep =          749 ntm =           30 time step =    4.800000      hour = 
+   1.000673    
+ istep =          775 ntm =           31 time step =    4.783392      hour = 
+   1.035325    
+ istep =          801 ntm =           32 time step =    4.766875      hour = 
+   1.069776    
+ istep =          827 ntm =           33 time step =    4.654747      hour = 
+   1.103891    
+ istep =          853 ntm =           34 time step =    4.602925      hour = 
+   1.137284    
+ istep =          880 ntm =           35 time step =    4.598444      hour = 
+   1.171761    
+ istep =          907 ntm =           36 time step =    4.508823      hour = 
+   1.205996    
+ istep =          934 ntm =           37 time step =    4.455115      hour = 
+   1.239589    
+ istep =          961 ntm =           38 time step =    4.439872      hour = 
+   1.272926    
+ istep =          988 ntm =           39 time step =    4.441392      hour = 
+   1.306257    
+ istep =         1016 ntm =           40 time step =    4.342204      hour = 
+   1.340358    
+ istep =         1044 ntm =           41 time step =    4.299442      hour = 
+   1.373957    
+ istep =         1072 ntm =           42 time step =    4.285474      hour = 
+   1.407324    
+ istep =         1100 ntm =           43 time step =    4.300518      hour = 
+   1.440702    
+ istep =         1129 ntm =           44 time step =    4.218631      hour = 
+   1.475067    
+ istep =         1158 ntm =           45 time step =    4.164399      hour = 
+   1.508827    
+ istep =         1187 ntm =           46 time step =    4.136132      hour = 
+   1.542248    
+ istep =         1217 ntm =           47 time step =    4.133031      hour = 
+   1.576676    
+ istep =         1246 ntm =           48 time step =    4.127915      hour = 
+   1.610040    
+ istep =         1276 ntm =           49 time step =    4.053070      hour = 
+   1.644102    
+ istep =         1306 ntm =           50 time step =    4.014713      hour = 
+   1.677700    
+ istep =         1336 ntm =           51 time step =    3.998674      hour = 
+   1.711079    
+ istep =         1367 ntm =           52 time step =    4.002935      hour = 
+   1.745506    
+ istep =         1397 ntm =           53 time step =    3.998948      hour = 
+   1.778938    
+ istep =         1428 ntm =           54 time step =    3.926503      hour = 
+   1.813037    
+ istep =         1459 ntm =           55 time step =    3.890123      hour = 
+   1.846676    
+ istep =         1490 ntm =           56 time step =    3.868171      hour = 
+   1.880071    
+ istep =         1522 ntm =           57 time step =    3.868221      hour = 
+   1.914427    
+ istep =         1553 ntm =           58 time step =    3.871459      hour = 
+   1.947834    
+ istep =         1585 ntm =           59 time step =    3.816211      hour = 
+   1.981985    
+ istep =         1617 ntm =           60 time step =    3.779828      hour = 
+   2.015746    
+ istep =         1649 ntm =           61 time step =    3.754123      hour = 
+   2.049230    
+ istep =         1682 ntm =           62 time step =    3.731763      hour = 
+   2.083572    
+ istep =         1715 ntm =           63 time step =    3.687742      hour = 
+   2.117561    
+ istep =         1748 ntm =           64 time step =    3.677582      hour = 
+   2.151297    
+ istep =         1781 ntm =           65 time step =    3.675406      hour = 
+   2.184995    
+ istep =         1814 ntm =           66 time step =    3.616608      hour = 
+   2.218411    
+ istep =         1848 ntm =           67 time step =    3.583739      hour = 
+   2.252388    
+ istep =         1882 ntm =           68 time step =    3.576590      hour = 
+   2.286198    
+ istep =         1916 ntm =           69 time step =    3.566766      hour = 
+   2.319950    
+ istep =         1950 ntm =           70 time step =    3.519299      hour = 
+   2.353399    
+ istep =         1985 ntm =           71 time step =    3.501389      hour = 
+   2.387497    
+ istep =         2020 ntm =           72 time step =    3.497693      hour = 
+   2.421515    
+ istep =         2055 ntm =           73 time step =    3.494743      hour = 
+   2.455502    
+ istep =         2090 ntm =           74 time step =    3.468176      hour = 
+   2.489376    
+ istep =         2125 ntm =           75 time step =    3.449985      hour = 
+   2.522995    
+ istep =         2160 ntm =           76 time step =    3.440844      hour = 
+   2.556487    
+ istep =         2195 ntm =           77 time step =    3.433169      hour = 
+   2.589905    
+ istep =         2230 ntm =           78 time step =    3.428022      hour = 
+   2.623262    
+ istep =         2266 ntm =           79 time step =    3.423075      hour = 
+   2.657531    
+ istep =         2302 ntm =           80 time step =    3.422099      hour = 
+   2.691776    
+ istep =         2338 ntm =           81 time step =    3.419991      hour = 
+   2.725974    
+ istep =         2374 ntm =           82 time step =    3.409715      hour = 
+   2.760128    
+ istep =         2410 ntm =           83 time step =    3.394922      hour = 
+   2.794146    
+ istep =         2446 ntm =           84 time step =    3.375950      hour = 
+   2.827994    
+ istep =         2482 ntm =           85 time step =    3.379075      hour = 
+   2.861738    
+ istep =         2518 ntm =           86 time step =    3.382004      hour = 
+   2.895559    
+ istep =         2554 ntm =           87 time step =    3.376706      hour = 
+   2.929341    
+ istep =         2590 ntm =           88 time step =    3.376668      hour = 
+   2.963137    
+ istep =         2626 ntm =           89 time step =    3.362371      hour = 
+   2.996828    
+ istep =         2662 ntm =           90 time step =    3.349293      hour = 
+   3.030386    
+ istep =         2698 ntm =           91 time step =    3.338187      hour = 
+   3.063840    
+ istep =         2735 ntm =           92 time step =    3.326644      hour = 
+   3.098080    
+ istep =         2772 ntm =           93 time step =    3.335008      hour = 
+   3.132291    
+ istep =         2808 ntm =           94 time step =    3.349232      hour = 
+   3.165741    
+ istep =         2844 ntm =           95 time step =    3.345582      hour = 
+   3.199220    
+ istep =         2880 ntm =           96 time step =    3.329616      hour = 
+   3.232599    
+ istep =         2917 ntm =           97 time step =    3.317641      hour = 
+   3.266761    
+ istep =         2954 ntm =           98 time step =    3.308270      hour = 
+   3.300807    
+ istep =         2991 ntm =           99 time step =    3.301546      hour = 
+   3.334778    
+ istep =         3028 ntm =          100 time step =    3.296752      hour = 
+   3.368684    
+ istep =         3065 ntm =          101 time step =    3.293879      hour = 
+   3.402551    
+ istep =         3102 ntm =          102 time step =    3.293142      hour = 
+   3.436399    
+ istep =         3139 ntm =          103 time step =    3.293649      hour = 
+   3.470245    
+ istep =         3176 ntm =          104 time step =    3.300370      hour = 
+   3.504119    
+ istep =         3213 ntm =          105 time step =    3.315819      hour = 
+   3.538110    
+ istep =         3250 ntm =          106 time step =    3.323944      hour = 
+   3.572257    
+ istep =         3287 ntm =          107 time step =    3.323777      hour = 
+   3.606416    
+ istep =         3324 ntm =          108 time step =    3.323974      hour = 
+   3.640582    
+ istep =         3361 ntm =          109 time step =    3.323385      hour = 
+   3.674741    
+ istep =         3398 ntm =          110 time step =    3.324343      hour = 
+   3.708905    
+ istep =         3435 ntm =          111 time step =    3.323349      hour = 
+   3.743065    
+ istep =         3472 ntm =          112 time step =    3.319554      hour = 
+   3.777212    
+ istep =         3509 ntm =          113 time step =    3.318005      hour = 
+   3.811321    
+ istep =         3546 ntm =          114 time step =    3.319228      hour = 
+   3.845423    
+ istep =         3583 ntm =          115 time step =    3.323283      hour = 
+   3.879557    
+ istep =         3620 ntm =          116 time step =    3.326358      hour = 
+   3.913729    
+ istep =         3657 ntm =          117 time step =    3.331737      hour = 
+   3.947939    
+ istep =         3693 ntm =          118 time step =    3.334752      hour = 
+   3.981273    
+ istep =         3729 ntm =          119 time step =    3.337507      hour = 
+   4.014636    
+ istep =         3765 ntm =          120 time step =    3.338019      hour = 
+   4.048007    
+ istep =         3801 ntm =          121 time step =    3.339906      hour = 
+   4.081398    
+ istep =         3837 ntm =          122 time step =    3.344348      hour = 
+   4.114815    
+ istep =         3873 ntm =          123 time step =    3.351190      hour = 
+   4.148290    
+ istep =         3909 ntm =          124 time step =    3.359103      hour = 
+   4.181842    
+ istep =         3945 ntm =          125 time step =    3.365552      hour = 
+   4.215460    
+ istep =         3981 ntm =          126 time step =    3.370825      hour = 
+   4.249145    
+ istep =         4017 ntm =          127 time step =    3.373712      hour = 
+   4.282867    
+ istep =         4053 ntm =          128 time step =    3.379834      hour = 
+   4.316635    
+ istep =         4089 ntm =          129 time step =    3.389089      hour = 
+   4.350476    
+ istep =         4125 ntm =          130 time step =    3.398103      hour = 
+   4.384414    
+ istep =         4161 ntm =          131 time step =    3.406609      hour = 
+   4.418435    
+ istep =         4197 ntm =          132 time step =    3.415553      hour = 
+   4.452543    
+ istep =         4233 ntm =          133 time step =    3.425466      hour = 
+   4.486743    
+ istep =         4268 ntm =          134 time step =    3.431386      hour = 
+   4.520080    
+ istep =         4303 ntm =          135 time step =    3.439431      hour = 
+   4.553473    
+ istep =         4338 ntm =          136 time step =    3.447323      hour = 
+   4.586952    
+ istep =         4373 ntm =          137 time step =    3.458275      hour = 
+   4.620509    
+ istep =         4408 ntm =          138 time step =    3.471480      hour = 
+   4.654198    
+ istep =         4443 ntm =          139 time step =    3.482858      hour = 
+   4.688003    
+ istep =         4478 ntm =          140 time step =    3.493827      hour = 
+   4.721923    
+ istep =         4513 ntm =          141 time step =    3.502507      hour = 
+   4.755925    
+ istep =         4548 ntm =          142 time step =    3.511732      hour = 
+   4.790024    
+ istep =         4583 ntm =          143 time step =    3.520563      hour = 
+   4.824203    
+ istep =         4618 ntm =          144 time step =    3.534014      hour = 
+   4.858500    
+ istep =         4652 ntm =          145 time step =    3.542180      hour = 
+   4.891914    
+ istep =         4686 ntm =          146 time step =    3.553856      hour = 
+   4.925414    
+ istep =         4720 ntm =          147 time step =    3.566274      hour = 
+   4.959040    
+ istep =         4754 ntm =          148 time step =    3.577579      hour = 
+   4.992774    
+ istep =         4788 ntm =          149 time step =    3.588265      hour = 
+   5.026611    
+ istep =         4822 ntm =          150 time step =    3.597599      hour = 
+   5.060546    
+ istep =         4856 ntm =          151 time step =    3.608120      hour = 
+   5.094568    
+ istep =         4890 ntm =          152 time step =    3.621681      hour = 
+   5.128705    
+ istep =         4924 ntm =          153 time step =    3.634549      hour = 
+   5.162969    
+ istep =         4957 ntm =          154 time step =    3.647926      hour = 
+   5.196345    
+ istep =         4990 ntm =          155 time step =    3.658628      hour = 
+   5.229831    
+ istep =         5023 ntm =          156 time step =    3.667021      hour = 
+   5.263409    
+ istep =         5056 ntm =          157 time step =    3.679401      hour = 
+   5.297079    
+ istep =         5089 ntm =          158 time step =    3.690719      hour = 
+   5.330857    
+ istep =         5122 ntm =          159 time step =    3.703764      hour = 
+   5.364747    
+ istep =         5155 ntm =          160 time step =    3.716146      hour = 
+   5.398751    
+ istep =         5188 ntm =          161 time step =    3.728603      hour = 
+   5.432873    
+ istep =         5221 ntm =          162 time step =    3.739919      hour = 
+   5.467105    
+ istep =         5254 ntm =          163 time step =    3.750281      hour = 
+   5.501432    
+ istep =         5286 ntm =          164 time step =    3.763252      hour = 
+   5.534823    
+ istep =         5318 ntm =          165 time step =    3.774168      hour = 
+   5.568324    
+ istep =         5350 ntm =          166 time step =    3.787233      hour = 
+   5.601925    
+ istep =         5382 ntm =          167 time step =    3.798574      hour = 
+   5.635641    
+ istep =         5414 ntm =          168 time step =    3.812079      hour = 
+   5.669462    
+ istep =         5446 ntm =          169 time step =    3.824002      hour = 
+   5.703399    
+ istep =         5478 ntm =          170 time step =    3.834358      hour = 
+   5.737442    
+ istep =         5510 ntm =          171 time step =    3.846588      hour = 
+   5.771575    
+ istep =         5542 ntm =          172 time step =    3.859347      hour = 
+   5.805821    
+ istep =         5574 ntm =          173 time step =    3.870485      hour = 
+   5.840175    
+ istep =         5605 ntm =          174 time step =    3.881696      hour = 
+   5.873552    
+ istep =         5636 ntm =          175 time step =    3.895363      hour = 
+   5.907033    
+ istep =         5667 ntm =          176 time step =    3.906811      hour = 
+   5.940628    
+ istep =         5698 ntm =          177 time step =    3.916919      hour = 
+   5.974308    
+ istep =         5729 ntm =          178 time step =    3.930808      hour = 
+   6.008095    
+ istep =         5760 ntm =          179 time step =    3.940244      hour = 
+   6.041986    
+ istep =         5791 ntm =          180 time step =    3.948886      hour = 
+   6.075949    
+ istep =         5822 ntm =          181 time step =    3.959145      hour = 
+   6.109997    
+ istep =         5853 ntm =          182 time step =    3.971800      hour = 
+   6.144141    
+ istep =         5884 ntm =          183 time step =    3.981986      hour = 
+   6.178385    
+ istep =         5915 ntm =          184 time step =    3.989358      hour = 
+   6.212702    
+ istep =         5946 ntm =          185 time step =    4.001532      hour = 
+   6.247106    
+ istep =         5976 ntm =          186 time step =    4.013292      hour = 
+   6.280498    
+ istep =         6006 ntm =          187 time step =    4.023401      hour = 
+   6.313986    
+ istep =         6036 ntm =          188 time step =    4.030247      hour = 
+   6.347543    
+ istep =         6066 ntm =          189 time step =    4.035828      hour = 
+   6.381150    
+ istep =         6096 ntm =          190 time step =    4.045779      hour = 
+   6.414820    
+ istep =         6126 ntm =          191 time step =    4.056231      hour = 
+   6.448577    
+ istep =         6156 ntm =          192 time step =    4.064565      hour = 
+   6.482417    
+ istep =         6186 ntm =          193 time step =    4.072118      hour = 
+   6.516317    
+ istep =         6216 ntm =          194 time step =    4.079840      hour = 
+   6.550285    
+ istep =         6246 ntm =          195 time step =    4.086984      hour = 
+   6.584315    
+ istep =         6276 ntm =          196 time step =    4.094218      hour = 
+   6.618401    
+ istep =         6306 ntm =          197 time step =    4.100570      hour = 
+   6.652545    
+ istep =         6336 ntm =          198 time step =    4.105250      hour = 
+   6.686739    
+ istep =         6366 ntm =          199 time step =    4.111898      hour = 
+   6.720972    
+ istep =         6396 ntm =          200 time step =    4.119488      hour = 
+   6.755270    
+ istep =         6426 ntm =          201 time step =    4.127970      hour = 
+   6.789632    
+ istep =         6456 ntm =          202 time step =    4.135029      hour = 
+   6.824061    
+ istep =         6485 ntm =          203 time step =    4.140678      hour = 
+   6.857397    
+ istep =         6514 ntm =          204 time step =    4.142092      hour = 
+   6.890762    
+ istep =         6543 ntm =          205 time step =    4.143576      hour = 
+   6.924132    
+ istep =         6572 ntm =          206 time step =    4.147469      hour = 
+   6.957527    
+ istep =         6601 ntm =          207 time step =    4.152040      hour = 
+   6.990954    
+ istep =         6630 ntm =          208 time step =    4.157934      hour = 
+   7.024424    
+ istep =         6659 ntm =          209 time step =    4.164260      hour = 
+   7.057943    
+ istep =         6688 ntm =          210 time step =    4.166138      hour = 
+   7.091499    
+ istep =         6717 ntm =          211 time step =    4.163558      hour = 
+   7.125051    
+ istep =         6746 ntm =          212 time step =    4.161637      hour = 
+   7.158582    
+ istep =         6775 ntm =          213 time step =    4.162333      hour = 
+   7.192111    
+ istep =         6804 ntm =          214 time step =    4.166378      hour = 
+   7.225655    
+ istep =         6833 ntm =          215 time step =    4.169540      hour = 
+   7.259234    
+ istep =         6862 ntm =          216 time step =    4.170938      hour = 
+   7.292825    
+ istep =         6891 ntm =          217 time step =    4.171718      hour = 
+   7.326432    
+ istep =         6920 ntm =          218 time step =    4.168133      hour = 
+   7.360028    
+ istep =         6949 ntm =          219 time step =    4.163915      hour = 
+   7.393583    
+ istep =         6978 ntm =          220 time step =    4.160849      hour = 
+   7.427114    
+ istep =         7007 ntm =          221 time step =    4.159676      hour = 
+   7.460626    
+ istep =         7036 ntm =          222 time step =    4.159127      hour = 
+   7.494137    
+ istep =         7065 ntm =          223 time step =    4.158456      hour = 
+   7.527634    
+ istep =         7094 ntm =          224 time step =    4.156427      hour = 
+   7.561127    
+ istep =         7123 ntm =          225 time step =    4.150341      hour = 
+   7.594590    
+ istep =         7152 ntm =          226 time step =    4.138519      hour = 
+   7.627980    
+ istep =         7182 ntm =          227 time step =    4.127377      hour = 
+   7.662420    
+ istep =         7212 ntm =          228 time step =    4.121325      hour = 
+   7.696787    
+ istep =         7242 ntm =          229 time step =    4.118261      hour = 
+   7.731122    
+ istep =         7272 ntm =          230 time step =    4.112394      hour = 
+   7.765420    
+ istep =         7302 ntm =          231 time step =    4.106135      hour = 
+   7.799664    
+ istep =         7332 ntm =          232 time step =    4.098237      hour = 
+   7.833854    
+ istep =         7362 ntm =          233 time step =    4.085553      hour = 
+   7.867955    
+ istep =         7392 ntm =          234 time step =    4.070244      hour = 
+   7.901939    
+ istep =         7422 ntm =          235 time step =    4.058529      hour = 
+   7.935807    
+ istep =         7452 ntm =          236 time step =    4.052392      hour = 
+   7.969601    
+ istep =         7482 ntm =          237 time step =    4.049665      hour = 
+   8.003364    
+ istep =         7512 ntm =          238 time step =    4.044180      hour = 
+   8.037086    
+ istep =         7542 ntm =          239 time step =    4.038976      hour = 
+   8.070769    
+ istep =         7572 ntm =          240 time step =    4.030294      hour = 
+   8.104399    
+ istep =         7602 ntm =          241 time step =    4.016084      hour = 
+   8.137925    
+ istep =         7632 ntm =          242 time step =    4.005612      hour = 
+   8.171351    
+ istep =         7662 ntm =          243 time step =    3.996349      hour = 
+   8.204693    
+ istep =         7693 ntm =          244 time step =    3.990667      hour = 
+   8.239079    
+ istep =         7724 ntm =          245 time step =    3.986262      hour = 
+   8.273427    
+ istep =         7755 ntm =          246 time step =    3.979863      hour = 
+   8.307727    
+ istep =         7786 ntm =          247 time step =    3.969650      hour = 
+   8.341961    
+ istep =         7817 ntm =          248 time step =    3.955587      hour = 
+   8.376091    
+ istep =         7848 ntm =          249 time step =    3.940234      hour = 
+   8.410089    
+ istep =         7879 ntm =          250 time step =    3.925570      hour = 
+   8.443952    
+ istep =         7910 ntm =          251 time step =    3.914091      hour = 
+   8.477708    
+ istep =         7941 ntm =          252 time step =    3.904842      hour = 
+   8.511371    
+ istep =         7972 ntm =          253 time step =    3.898158      hour = 
+   8.544966    
+ istep =         8003 ntm =          254 time step =    3.895908      hour = 
+   8.578522    
+ istep =         8034 ntm =          255 time step =    3.888737      hour = 
+   8.612045    
+ istep =         8065 ntm =          256 time step =    3.874175      hour = 
+   8.645481    
+ istep =         8097 ntm =          257 time step =    3.860234      hour = 
+   8.679864    
+ istep =         8129 ntm =          258 time step =    3.850656      hour = 
+   8.714130    
+ istep =         8161 ntm =          259 time step =    3.848400      hour = 
+   8.748352    
+ istep =         8193 ntm =          260 time step =    3.846805      hour = 
+   8.782553    
+ istep =         8225 ntm =          261 time step =    3.841927      hour = 
+   8.816730    
+ istep =         8257 ntm =          262 time step =    3.836003      hour = 
+   8.850859    
+ istep =         8289 ntm =          263 time step =    3.819463      hour = 
+   8.884888    
+ istep =         8321 ntm =          264 time step =    3.798950      hour = 
+   8.918745    
+ istep =         8353 ntm =          265 time step =    3.784681      hour = 
+   8.952438    
+ istep =         8385 ntm =          266 time step =    3.779136      hour = 
+   8.986055    
+ istep =         8417 ntm =          267 time step =    3.779138      hour = 
+   9.019649    
+ istep =         8449 ntm =          268 time step =    3.785896      hour = 
+   9.053268    
+ istep =         8481 ntm =          269 time step =    3.790083      hour = 
+   9.086942    
+ istep =         8513 ntm =          270 time step =    3.788258      hour = 
+   9.120627    
+ istep =         8545 ntm =          271 time step =    3.779050      hour = 
+   9.154266    
+ istep =         8577 ntm =          272 time step =    3.773352      hour = 
+   9.187825    
+ istep =         8609 ntm =          273 time step =    3.767572      hour = 
+   9.221344    
+ istep =         8641 ntm =          274 time step =    3.765193      hour = 
+   9.254817    
+ istep =         8673 ntm =          275 time step =    3.769236      hour = 
+   9.288296    
+ istep =         8705 ntm =          276 time step =    3.776174      hour = 
+   9.321835    
+ istep =         8737 ntm =          277 time step =    3.779556      hour = 
+   9.355429    
+ istep =         8769 ntm =          278 time step =    3.780173      hour = 
+   9.389040    
+ istep =         8801 ntm =          279 time step =    3.781092      hour = 
+   9.422651    
+ istep =         8833 ntm =          280 time step =    3.793689      hour = 
+   9.456304    
+ istep =         8865 ntm =          281 time step =    3.818321      hour = 
+   9.490118    
+ istep =         8897 ntm =          282 time step =    3.858250      hour = 
+   9.524220    
+ istep =         8928 ntm =          283 time step =    3.918382      hour = 
+   9.557679    
+ istep =         8959 ntm =          284 time step =    3.990193      hour = 
+   9.591713    
+ istep =         8989 ntm =          285 time step =    4.063072      hour = 
+   9.625250    
+ istep =         9019 ntm =          286 time step =    4.146091      hour = 
+   9.659433    
+ istep =         9048 ntm =          287 time step =    4.223867      hour = 
+   9.693141    
+ istep =         9077 ntm =          288 time step =    4.310489      hour = 
+   9.727494    
+ istep =         9105 ntm =          289 time step =    4.395771      hour = 
+   9.761358    
+ istep =         9133 ntm =          290 time step =    4.480275      hour = 
+   9.795854    
+ istep =         9160 ntm =          291 time step =    4.569747      hour = 
+   9.829787    
+ istep =         9187 ntm =          292 time step =    4.652770      hour = 
+   9.864366    
+ istep =         9213 ntm =          293 time step =    4.737758      hour = 
+   9.898253    
+ istep =         9239 ntm =          294 time step =    4.800000      hour = 
+   9.932731    
+ istep =         9264 ntm =          295 time step =    4.800000      hour = 
+   9.966070    
+ istep =         9289 ntm =          296 time step =    4.800000      hour = 
+   9.999409    
+ istep =         9314 ntm =          297 time step =    4.800000      hour = 
+   10.03275    
+ istep =         9339 ntm =          298 time step =    4.800000      hour = 
+   10.06609    
+ istep =         9364 ntm =          299 time step =    4.800000      hour = 
+   10.09943    
+ istep =         9389 ntm =          300 time step =    4.800000      hour = 
+   10.13276    
+ istep =         9414 ntm =          301 time step =    4.800000      hour = 
+   10.16610    
+ istep =         9439 ntm =          302 time step =    4.800000      hour = 
+   10.19944    
+ istep =         9464 ntm =          303 time step =    4.800000      hour = 
+   10.23278    
+ istep =         9489 ntm =          304 time step =    4.800000      hour = 
+   10.26612    
+ istep =         9514 ntm =          305 time step =    4.800000      hour = 
+   10.29946    
+ istep =         9539 ntm =          306 time step =    4.800000      hour = 
+   10.33280    
+ istep =         9564 ntm =          307 time step =    4.800000      hour = 
+   10.36613    
+ istep =         9589 ntm =          308 time step =    4.800000      hour = 
+   10.39947    
+ istep =         9614 ntm =          309 time step =    4.800000      hour = 
+   10.43281    
+ istep =         9639 ntm =          310 time step =    4.800000      hour = 
+   10.46615    
+ istep =         9664 ntm =          311 time step =    4.800000      hour = 
+   10.49949    
+ istep =         9689 ntm =          312 time step =    4.800000      hour = 
+   10.53283    
+ istep =         9714 ntm =          313 time step =    4.800000      hour = 
+   10.56617    
+ istep =         9739 ntm =          314 time step =    4.800000      hour = 
+   10.59951    
+ istep =         9764 ntm =          315 time step =    4.800000      hour = 
+   10.63284    
+ istep =         9789 ntm =          316 time step =    4.800000      hour = 
+   10.66618    
+ istep =         9814 ntm =          317 time step =    4.800000      hour = 
+   10.69952    
+ istep =         9839 ntm =          318 time step =    4.800000      hour = 
+   10.73286    
+ istep =         9864 ntm =          319 time step =    4.800000      hour = 
+   10.76620    
+ istep =         9879 ntm =          320 time step =    8.699054      hour = 
+   10.80088    
+ istep =         9893 ntm =          321 time step =    8.906054      hour = 
+   10.83509    
+ istep =         9907 ntm =          322 time step =    9.120871      hour = 
+   10.87013    
+ istep =         9920 ntm =          323 time step =    9.347510      hour = 
+   10.90350    
+ istep =         9933 ntm =          324 time step =    9.582762      hour = 
+   10.93769    
+ istep =         9946 ntm =          325 time step =    9.822153      hour = 
+   10.97273    
+ istep =         9959 ntm =          326 time step =    10.06173      hour = 
+   11.00858    
+ istep =         9971 ntm =          327 time step =    10.30802      hour = 
+   11.04246    
+ istep =         9983 ntm =          328 time step =    10.52860      hour = 
+   11.07705    
+ istep =         9995 ntm =          329 time step =    10.79914      hour = 
+   11.11260    
+ istep =        10007 ntm =          330 time step =    11.00612      hour = 
+   11.14892    
+ istep =        10018 ntm =          331 time step =    11.36501      hour = 
+   11.18311    
+ istep =        10029 ntm =          332 time step =    11.60330      hour = 
+   11.21819    
+ istep =        10040 ntm =          333 time step =    11.88672      hour = 
+   11.25394    
+ istep =        10051 ntm =          334 time step =    12.00000      hour = 
+   11.29055    
+ istep =        10061 ntm =          335 time step =    12.00000      hour = 
+   11.32388    
+ istep =        10071 ntm =          336 time step =    12.00000      hour = 
+   11.35722    
+ istep =        10081 ntm =          337 time step =    12.00000      hour = 
+   11.39055    
+ istep =        10091 ntm =          338 time step =    12.00000      hour = 
+   11.42388    
+ istep =        10101 ntm =          339 time step =    12.00000      hour = 
+   11.45722    
+ istep =        10111 ntm =          340 time step =    12.00000      hour = 
+   11.49055    
+ istep =        10121 ntm =          341 time step =    12.00000      hour = 
+   11.52388    
+ istep =        10131 ntm =          342 time step =    12.00000      hour = 
+   11.55722    
+ istep =        10141 ntm =          343 time step =    12.00000      hour = 
+   11.59055    
+ istep =        10151 ntm =          344 time step =    12.00000      hour = 
+   11.62388    
+ istep =        10161 ntm =          345 time step =    12.00000      hour = 
+   11.65722    
+ istep =        10171 ntm =          346 time step =    12.00000      hour = 
+   11.69055    
+ istep =        10181 ntm =          347 time step =    12.00000      hour = 
+   11.72388    
+ istep =        10191 ntm =          348 time step =    12.00000      hour = 
+   11.75722    
+ istep =        10201 ntm =          349 time step =    12.00000      hour = 
+   11.79055    
+ istep =        10211 ntm =          350 time step =    12.00000      hour = 
+   11.82388    
+ istep =        10221 ntm =          351 time step =    12.00000      hour = 
+   11.85722    
+ istep =        10231 ntm =          352 time step =    12.00000      hour = 
+   11.89055    
+ istep =        10241 ntm =          353 time step =    12.00000      hour = 
+   11.92388    
+ istep =        10251 ntm =          354 time step =    12.00000      hour = 
+   11.95722    
+ istep =        10261 ntm =          355 time step =    12.00000      hour = 
+   11.99055    
+ istep =        10271 ntm =          356 time step =    12.00000      hour = 
+   12.02388    
+ istep =        10281 ntm =          357 time step =    12.00000      hour = 
+   12.05722    
+ istep =        10291 ntm =          358 time step =    12.00000      hour = 
+   12.09055    
+ istep =        10301 ntm =          359 time step =    12.00000      hour = 
+   12.12388    
+ istep =        10311 ntm =          360 time step =    12.00000      hour = 
+   12.15722    
+ istep =        10321 ntm =          361 time step =    12.00000      hour = 
+   12.19055    
+ istep =        10331 ntm =          362 time step =    12.00000      hour = 
+   12.22388    
+ istep =        10341 ntm =          363 time step =    12.00000      hour = 
+   12.25722    
+ istep =        10351 ntm =          364 time step =    12.00000      hour = 
+   12.29055    
+ istep =        10361 ntm =          365 time step =    12.00000      hour = 
+   12.32388    
+ istep =        10371 ntm =          366 time step =    12.00000      hour = 
+   12.35722    
+ istep =        10381 ntm =          367 time step =    12.00000      hour = 
+   12.39055    
+ istep =        10391 ntm =          368 time step =    12.00000      hour = 
+   12.42388    
+ istep =        10401 ntm =          369 time step =    12.00000      hour = 
+   12.45722    
+ istep =        10411 ntm =          370 time step =    12.00000      hour = 
+   12.49055    
+ istep =        10421 ntm =          371 time step =    12.00000      hour = 
+   12.52388    
+ istep =        10431 ntm =          372 time step =    12.00000      hour = 
+   12.55722    
+ istep =        10441 ntm =          373 time step =    12.00000      hour = 
+   12.59055    
+ istep =        10451 ntm =          374 time step =    12.00000      hour = 
+   12.62388    
+ istep =        10461 ntm =          375 time step =    12.00000      hour = 
+   12.65722    
+ istep =        10471 ntm =          376 time step =    12.00000      hour = 
+   12.69055    
+ istep =        10481 ntm =          377 time step =    12.00000      hour = 
+   12.72388    
+ istep =        10491 ntm =          378 time step =    12.00000      hour = 
+   12.75722    
+ istep =        10501 ntm =          379 time step =    12.00000      hour = 
+   12.79055    
+ istep =        10511 ntm =          380 time step =    12.00000      hour = 
+   12.82388    
+ istep =        10521 ntm =          381 time step =    12.00000      hour = 
+   12.85722    
+ istep =        10531 ntm =          382 time step =    12.00000      hour = 
+   12.89055    
+ istep =        10541 ntm =          383 time step =    12.00000      hour = 
+   12.92388    
+ istep =        10551 ntm =          384 time step =    12.00000      hour = 
+   12.95722    
+ istep =        10561 ntm =          385 time step =    12.00000      hour = 
+   12.99055    
+ istep =        10571 ntm =          386 time step =    12.00000      hour = 
+   13.02388    
+ istep =        10581 ntm =          387 time step =    12.00000      hour = 
+   13.05722    
+ istep =        10591 ntm =          388 time step =    12.00000      hour = 
+   13.09055    
+ istep =        10601 ntm =          389 time step =    12.00000      hour = 
+   13.12388    
+ istep =        10611 ntm =          390 time step =    12.00000      hour = 
+   13.15722    
+ istep =        10621 ntm =          391 time step =    12.00000      hour = 
+   13.19055    
+ istep =        10631 ntm =          392 time step =    12.00000      hour = 
+   13.22388    
+ istep =        10641 ntm =          393 time step =    12.00000      hour = 
+   13.25722    
+ istep =        10651 ntm =          394 time step =    12.00000      hour = 
+   13.29055    
+ istep =        10661 ntm =          395 time step =    12.00000      hour = 
+   13.32388    
+ istep =        10671 ntm =          396 time step =    12.00000      hour = 
+   13.35722    
+ istep =        10681 ntm =          397 time step =    12.00000      hour = 
+   13.39055    
+ istep =        10691 ntm =          398 time step =    12.00000      hour = 
+   13.42388    
+ istep =        10701 ntm =          399 time step =    12.00000      hour = 
+   13.45722    
+ istep =        10711 ntm =          400 time step =    12.00000      hour = 
+   13.49055    
+ istep =        10721 ntm =          401 time step =    12.00000      hour = 
+   13.52388    
+ istep =        10731 ntm =          402 time step =    12.00000      hour = 
+   13.55722    
+ istep =        10741 ntm =          403 time step =    12.00000      hour = 
+   13.59055    
+ istep =        10751 ntm =          404 time step =    12.00000      hour = 
+   13.62388    
+ istep =        10761 ntm =          405 time step =    12.00000      hour = 
+   13.65722    
+ istep =        10771 ntm =          406 time step =    12.00000      hour = 
+   13.69055    
+ istep =        10781 ntm =          407 time step =    12.00000      hour = 
+   13.72388    
+ istep =        10791 ntm =          408 time step =    12.00000      hour = 
+   13.75722    
+ istep =        10801 ntm =          409 time step =    12.00000      hour = 
+   13.79055    
+ istep =        10811 ntm =          410 time step =    12.00000      hour = 
+   13.82388    
+ istep =        10821 ntm =          411 time step =    12.00000      hour = 
+   13.85722    
+ istep =        10831 ntm =          412 time step =    12.00000      hour = 
+   13.89055    
+ istep =        10841 ntm =          413 time step =    12.00000      hour = 
+   13.92388    
+ istep =        10851 ntm =          414 time step =    12.00000      hour = 
+   13.95722    
+ istep =        10861 ntm =          415 time step =    12.00000      hour = 
+   13.99055    
+ istep =        10871 ntm =          416 time step =    12.00000      hour = 
+   14.02388    
+ istep =        10881 ntm =          417 time step =    12.00000      hour = 
+   14.05722    
+ istep =        10891 ntm =          418 time step =    12.00000      hour = 
+   14.09055    
+ istep =        10901 ntm =          419 time step =    12.00000      hour = 
+   14.12388    
+ istep =        10911 ntm =          420 time step =    12.00000      hour = 
+   14.15722    
+ istep =        10921 ntm =          421 time step =    12.00000      hour = 
+   14.19055    
+ istep =        10931 ntm =          422 time step =    12.00000      hour = 
+   14.22388    
+ istep =        10941 ntm =          423 time step =    12.00000      hour = 
+   14.25722    
+ istep =        10951 ntm =          424 time step =    12.00000      hour = 
+   14.29055    
+ istep =        10961 ntm =          425 time step =    12.00000      hour = 
+   14.32388    
+ istep =        10971 ntm =          426 time step =    12.00000      hour = 
+   14.35722    
+ istep =        10981 ntm =          427 time step =    12.00000      hour = 
+   14.39055    
+ istep =        10991 ntm =          428 time step =    12.00000      hour = 
+   14.42388    
+ istep =        11001 ntm =          429 time step =    12.00000      hour = 
+   14.45722    
+ istep =        11011 ntm =          430 time step =    12.00000      hour = 
+   14.49055    
+ istep =        11021 ntm =          431 time step =    12.00000      hour = 
+   14.52388    
+ istep =        11031 ntm =          432 time step =    12.00000      hour = 
+   14.55722    
+ istep =        11041 ntm =          433 time step =    12.00000      hour = 
+   14.59055    
+ istep =        11051 ntm =          434 time step =    12.00000      hour = 
+   14.62388    
+ istep =        11061 ntm =          435 time step =    12.00000      hour = 
+   14.65722    
+ istep =        11071 ntm =          436 time step =    12.00000      hour = 
+   14.69055    
+ istep =        11081 ntm =          437 time step =    12.00000      hour = 
+   14.72388    
+ istep =        11091 ntm =          438 time step =    12.00000      hour = 
+   14.75722    
+ istep =        11101 ntm =          439 time step =    12.00000      hour = 
+   14.79055    
+ istep =        11111 ntm =          440 time step =    12.00000      hour = 
+   14.82388    
+ istep =        11121 ntm =          441 time step =    12.00000      hour = 
+   14.85722    
+ istep =        11131 ntm =          442 time step =    12.00000      hour = 
+   14.89055    
+ istep =        11141 ntm =          443 time step =    12.00000      hour = 
+   14.92388    
+ istep =        11151 ntm =          444 time step =    12.00000      hour = 
+   14.95722    
+ istep =        11161 ntm =          445 time step =    12.00000      hour = 
+   14.99055    
+ istep =        11171 ntm =          446 time step =    12.00000      hour = 
+   15.02388    
+ istep =        11181 ntm =          447 time step =    12.00000      hour = 
+   15.05722    
+ istep =        11191 ntm =          448 time step =    12.00000      hour = 
+   15.09055    
+ istep =        11201 ntm =          449 time step =    12.00000      hour = 
+   15.12388    
+ istep =        11211 ntm =          450 time step =    12.00000      hour = 
+   15.15722    
+ istep =        11221 ntm =          451 time step =    12.00000      hour = 
+   15.19055    
+ istep =        11231 ntm =          452 time step =    12.00000      hour = 
+   15.22388    
+ istep =        11241 ntm =          453 time step =    12.00000      hour = 
+   15.25722    
+ istep =        11251 ntm =          454 time step =    12.00000      hour = 
+   15.29055    
+ istep =        11261 ntm =          455 time step =    12.00000      hour = 
+   15.32388    
+ istep =        11271 ntm =          456 time step =    12.00000      hour = 
+   15.35722    
+ istep =        11281 ntm =          457 time step =    12.00000      hour = 
+   15.39055    
+ istep =        11291 ntm =          458 time step =    12.00000      hour = 
+   15.42388    
+ istep =        11301 ntm =          459 time step =    12.00000      hour = 
+   15.45722    
+ istep =        11311 ntm =          460 time step =    12.00000      hour = 
+   15.49055    
+ istep =        11321 ntm =          461 time step =    12.00000      hour = 
+   15.52388    
+ istep =        11331 ntm =          462 time step =    12.00000      hour = 
+   15.55722    
+ istep =        11341 ntm =          463 time step =    12.00000      hour = 
+   15.59055    
+ istep =        11351 ntm =          464 time step =    12.00000      hour = 
+   15.62388    
+ istep =        11361 ntm =          465 time step =    12.00000      hour = 
+   15.65722    
+ istep =        11371 ntm =          466 time step =    12.00000      hour = 
+   15.69055    
+ istep =        11381 ntm =          467 time step =    12.00000      hour = 
+   15.72388    
+ istep =        11391 ntm =          468 time step =    12.00000      hour = 
+   15.75722    
+ istep =        11401 ntm =          469 time step =    12.00000      hour = 
+   15.79055    
+ istep =        11411 ntm =          470 time step =    12.00000      hour = 
+   15.82388    
+ istep =        11421 ntm =          471 time step =    12.00000      hour = 
+   15.85722    
+ istep =        11431 ntm =          472 time step =    12.00000      hour = 
+   15.89055    
+ istep =        11441 ntm =          473 time step =    12.00000      hour = 
+   15.92388    
+ istep =        11451 ntm =          474 time step =    12.00000      hour = 
+   15.95722    
+ istep =        11461 ntm =          475 time step =    12.00000      hour = 
+   15.99055    
+ istep =        11471 ntm =          476 time step =    12.00000      hour = 
+   16.02388    
+ istep =        11481 ntm =          477 time step =    12.00000      hour = 
+   16.05722    
+ istep =        11491 ntm =          478 time step =    12.00000      hour = 
+   16.09055    
+ istep =        11501 ntm =          479 time step =    12.00000      hour = 
+   16.12388    
+ istep =        11511 ntm =          480 time step =    12.00000      hour = 
+   16.15722    
+ istep =        11521 ntm =          481 time step =    12.00000      hour = 
+   16.19055    
+ istep =        11531 ntm =          482 time step =    12.00000      hour = 
+   16.22388    
+ istep =        11541 ntm =          483 time step =    12.00000      hour = 
+   16.25722    
+ istep =        11551 ntm =          484 time step =    12.00000      hour = 
+   16.29055    
+ istep =        11561 ntm =          485 time step =    12.00000      hour = 
+   16.32388    
+ istep =        11571 ntm =          486 time step =    12.00000      hour = 
+   16.35722    
+ istep =        11581 ntm =          487 time step =    12.00000      hour = 
+   16.39055    
+ istep =        11591 ntm =          488 time step =    12.00000      hour = 
+   16.42389    
+ istep =        11601 ntm =          489 time step =    12.00000      hour = 
+   16.45722    
+ istep =        11611 ntm =          490 time step =    12.00000      hour = 
+   16.49055    
+ istep =        11621 ntm =          491 time step =    12.00000      hour = 
+   16.52388    
+ istep =        11631 ntm =          492 time step =    12.00000      hour = 
+   16.55722    
+ istep =        11641 ntm =          493 time step =    12.00000      hour = 
+   16.59055    
+ istep =        11651 ntm =          494 time step =    12.00000      hour = 
+   16.62388    
+ istep =        11661 ntm =          495 time step =    12.00000      hour = 
+   16.65722    
+ istep =        11671 ntm =          496 time step =    12.00000      hour = 
+   16.69055    
+ istep =        11681 ntm =          497 time step =    12.00000      hour = 
+   16.72388    
+ istep =        11691 ntm =          498 time step =    12.00000      hour = 
+   16.75722    
+ istep =        11701 ntm =          499 time step =    12.00000      hour = 
+   16.79055    
+ istep =        11711 ntm =          500 time step =    12.00000      hour = 
+   16.82388    
+ istep =        11721 ntm =          501 time step =    12.00000      hour = 
+   16.85722    
+ istep =        11731 ntm =          502 time step =    12.00000      hour = 
+   16.89055    
+ istep =        11741 ntm =          503 time step =    12.00000      hour = 
+   16.92389    
+ istep =        11751 ntm =          504 time step =    12.00000      hour = 
+   16.95722    
+ istep =        11761 ntm =          505 time step =    12.00000      hour = 
+   16.99055    
+ istep =        11771 ntm =          506 time step =    12.00000      hour = 
+   17.02388    
+ istep =        11781 ntm =          507 time step =    12.00000      hour = 
+   17.05722    
+ istep =        11791 ntm =          508 time step =    12.00000      hour = 
+   17.09055    
+ istep =        11801 ntm =          509 time step =    12.00000      hour = 
+   17.12388    
+ istep =        11811 ntm =          510 time step =    12.00000      hour = 
+   17.15722    
+ istep =        11821 ntm =          511 time step =    12.00000      hour = 
+   17.19055    
+ istep =        11831 ntm =          512 time step =    12.00000      hour = 
+   17.22388    
+ istep =        11841 ntm =          513 time step =    12.00000      hour = 
+   17.25722    
+ istep =        11851 ntm =          514 time step =    12.00000      hour = 
+   17.29055    
+ istep =        11861 ntm =          515 time step =    12.00000      hour = 
+   17.32388    
+ istep =        11871 ntm =          516 time step =    12.00000      hour = 
+   17.35722    
+ istep =        11881 ntm =          517 time step =    12.00000      hour = 
+   17.39055    
+ istep =        11891 ntm =          518 time step =    12.00000      hour = 
+   17.42389    
+ istep =        11901 ntm =          519 time step =    12.00000      hour = 
+   17.45722    
+ istep =        11911 ntm =          520 time step =    12.00000      hour = 
+   17.49055    
+ istep =        11921 ntm =          521 time step =    12.00000      hour = 
+   17.52388    
+ istep =        11931 ntm =          522 time step =    12.00000      hour = 
+   17.55722    
+ istep =        11941 ntm =          523 time step =    12.00000      hour = 
+   17.59055    
+ istep =        11951 ntm =          524 time step =    12.00000      hour = 
+   17.62388    
+ istep =        11961 ntm =          525 time step =    12.00000      hour = 
+   17.65722    
+ istep =        11971 ntm =          526 time step =    12.00000      hour = 
+   17.69055    
+ istep =        11981 ntm =          527 time step =    12.00000      hour = 
+   17.72388    
+ istep =        11991 ntm =          528 time step =    12.00000      hour = 
+   17.75722    
+ istep =        12001 ntm =          529 time step =    12.00000      hour = 
+   17.79055    
+ istep =        12011 ntm =          530 time step =    12.00000      hour = 
+   17.82388    
+ istep =        12021 ntm =          531 time step =    12.00000      hour = 
+   17.85722    
+ istep =        12031 ntm =          532 time step =    12.00000      hour = 
+   17.89055    
+ istep =        12041 ntm =          533 time step =    12.00000      hour = 
+   17.92389    
+ istep =        12051 ntm =          534 time step =    12.00000      hour = 
+   17.95722    
+ istep =        12061 ntm =          535 time step =    12.00000      hour = 
+   17.99055    
+ istep =        12071 ntm =          536 time step =    12.00000      hour = 
+   18.02388    
+ istep =        12081 ntm =          537 time step =    12.00000      hour = 
+   18.05722    
+ istep =        12091 ntm =          538 time step =    12.00000      hour = 
+   18.09055    
+ istep =        12101 ntm =          539 time step =    12.00000      hour = 
+   18.12388    
+ istep =        12111 ntm =          540 time step =    12.00000      hour = 
+   18.15722    
+ istep =        12121 ntm =          541 time step =    12.00000      hour = 
+   18.19055    
+ istep =        12131 ntm =          542 time step =    12.00000      hour = 
+   18.22388    
+ istep =        12141 ntm =          543 time step =    12.00000      hour = 
+   18.25722    
+ istep =        12151 ntm =          544 time step =    12.00000      hour = 
+   18.29055    
+ istep =        12161 ntm =          545 time step =    12.00000      hour = 
+   18.32388    
+ istep =        12171 ntm =          546 time step =    12.00000      hour = 
+   18.35722    
+ istep =        12181 ntm =          547 time step =    12.00000      hour = 
+   18.39055    
+ istep =        12191 ntm =          548 time step =    12.00000      hour = 
+   18.42389    
+ istep =        12201 ntm =          549 time step =    12.00000      hour = 
+   18.45722    
+ istep =        12211 ntm =          550 time step =    12.00000      hour = 
+   18.49055    
+ istep =        12221 ntm =          551 time step =    12.00000      hour = 
+   18.52388    
+ istep =        12231 ntm =          552 time step =    12.00000      hour = 
+   18.55722    
+ istep =        12241 ntm =          553 time step =    12.00000      hour = 
+   18.59055    
+ istep =        12251 ntm =          554 time step =    12.00000      hour = 
+   18.62388    
+ istep =        12261 ntm =          555 time step =    12.00000      hour = 
+   18.65722    
+ istep =        12271 ntm =          556 time step =    12.00000      hour = 
+   18.69055    
+ istep =        12281 ntm =          557 time step =    12.00000      hour = 
+   18.72388    
+ istep =        12291 ntm =          558 time step =    12.00000      hour = 
+   18.75722    
+ istep =        12301 ntm =          559 time step =    12.00000      hour = 
+   18.79055    
+ istep =        12311 ntm =          560 time step =    12.00000      hour = 
+   18.82388    
+ istep =        12321 ntm =          561 time step =    12.00000      hour = 
+   18.85722    
+ istep =        12331 ntm =          562 time step =    12.00000      hour = 
+   18.89055    
+ istep =        12341 ntm =          563 time step =    12.00000      hour = 
+   18.92389    
+ istep =        12351 ntm =          564 time step =    12.00000      hour = 
+   18.95722    
+ istep =        12361 ntm =          565 time step =    12.00000      hour = 
+   18.99055    
+ istep =        12371 ntm =          566 time step =    12.00000      hour = 
+   19.02388    
+ istep =        12381 ntm =          567 time step =    12.00000      hour = 
+   19.05722    
+ istep =        12391 ntm =          568 time step =    12.00000      hour = 
+   19.09055    
+ istep =        12401 ntm =          569 time step =    12.00000      hour = 
+   19.12388    
+ istep =        12411 ntm =          570 time step =    12.00000      hour = 
+   19.15722    
+ istep =        12421 ntm =          571 time step =    12.00000      hour = 
+   19.19055    
+ istep =        12431 ntm =          572 time step =    12.00000      hour = 
+   19.22388    
+ istep =        12441 ntm =          573 time step =    12.00000      hour = 
+   19.25722    
+ istep =        12451 ntm =          574 time step =    12.00000      hour = 
+   19.29055    
+ istep =        12461 ntm =          575 time step =    12.00000      hour = 
+   19.32388    
+ istep =        12471 ntm =          576 time step =    12.00000      hour = 
+   19.35722    
+ istep =        12481 ntm =          577 time step =    12.00000      hour = 
+   19.39055    
+ istep =        12491 ntm =          578 time step =    12.00000      hour = 
+   19.42389    
+ istep =        12501 ntm =          579 time step =    12.00000      hour = 
+   19.45722    
+ istep =        12511 ntm =          580 time step =    12.00000      hour = 
+   19.49055    
+ istep =        12521 ntm =          581 time step =    12.00000      hour = 
+   19.52388    
+ istep =        12531 ntm =          582 time step =    12.00000      hour = 
+   19.55722    
+ istep =        12541 ntm =          583 time step =    12.00000      hour = 
+   19.59055    
+ istep =        12551 ntm =          584 time step =    12.00000      hour = 
+   19.62388    
+ istep =        12561 ntm =          585 time step =    12.00000      hour = 
+   19.65722    
+ istep =        12571 ntm =          586 time step =    12.00000      hour = 
+   19.69055    
+ istep =        12581 ntm =          587 time step =    12.00000      hour = 
+   19.72388    
+ istep =        12591 ntm =          588 time step =    12.00000      hour = 
+   19.75722    
+ istep =        12601 ntm =          589 time step =    12.00000      hour = 
+   19.79055    
+ istep =        12611 ntm =          590 time step =    12.00000      hour = 
+   19.82388    
+ istep =        12621 ntm =          591 time step =    12.00000      hour = 
+   19.85722    
+ istep =        12631 ntm =          592 time step =    12.00000      hour = 
+   19.89055    
+ istep =        12641 ntm =          593 time step =    12.00000      hour = 
+   19.92389    
+ istep =        12651 ntm =          594 time step =    12.00000      hour = 
+   19.95722    
+ istep =        12661 ntm =          595 time step =    12.00000      hour = 
+   19.99055    
+ istep =        12671 ntm =          596 time step =    12.00000      hour = 
+   20.02388    
+ istep =        12681 ntm =          597 time step =    12.00000      hour = 
+   20.05722    
+ istep =        12691 ntm =          598 time step =    12.00000      hour = 
+   20.09055    
+ istep =        12701 ntm =          599 time step =    12.00000      hour = 
+   20.12388    
+ istep =        12711 ntm =          600 time step =    12.00000      hour = 
+   20.15722    
+ istep =        12721 ntm =          601 time step =    12.00000      hour = 
+   20.19055    
+ istep =        12731 ntm =          602 time step =    12.00000      hour = 
+   20.22388    
+ istep =        12741 ntm =          603 time step =    12.00000      hour = 
+   20.25722    
+ istep =        12751 ntm =          604 time step =    12.00000      hour = 
+   20.29055    
+ istep =        12761 ntm =          605 time step =    12.00000      hour = 
+   20.32388    
+ istep =        12771 ntm =          606 time step =    12.00000      hour = 
+   20.35722    
+ istep =        12781 ntm =          607 time step =    12.00000      hour = 
+   20.39055    
+ istep =        12791 ntm =          608 time step =    12.00000      hour = 
+   20.42389    
+ istep =        12801 ntm =          609 time step =    12.00000      hour = 
+   20.45722    
+ istep =        12811 ntm =          610 time step =    12.00000      hour = 
+   20.49055    
+ istep =        12821 ntm =          611 time step =    12.00000      hour = 
+   20.52388    
+ istep =        12831 ntm =          612 time step =    12.00000      hour = 
+   20.55722    
+ istep =        12841 ntm =          613 time step =    12.00000      hour = 
+   20.59055    
+ istep =        12851 ntm =          614 time step =    12.00000      hour = 
+   20.62388    
+ istep =        12861 ntm =          615 time step =    12.00000      hour = 
+   20.65722    
+ istep =        12871 ntm =          616 time step =    12.00000      hour = 
+   20.69055    
+ istep =        12881 ntm =          617 time step =    12.00000      hour = 
+   20.72388    
+ istep =        12891 ntm =          618 time step =    12.00000      hour = 
+   20.75722    
+ istep =        12901 ntm =          619 time step =    12.00000      hour = 
+   20.79055    
+ istep =        12911 ntm =          620 time step =    12.00000      hour = 
+   20.82388    
+ istep =        12921 ntm =          621 time step =    12.00000      hour = 
+   20.85722    
+ istep =        12931 ntm =          622 time step =    12.00000      hour = 
+   20.89055    
+ istep =        12941 ntm =          623 time step =    12.00000      hour = 
+   20.92389    
+ istep =        12951 ntm =          624 time step =    12.00000      hour = 
+   20.95722    
+ istep =        12961 ntm =          625 time step =    12.00000      hour = 
+   20.99055    
+ istep =        12971 ntm =          626 time step =    12.00000      hour = 
+   21.02388    
+ istep =        12981 ntm =          627 time step =    12.00000      hour = 
+   21.05722    
+ istep =        12991 ntm =          628 time step =    12.00000      hour = 
+   21.09055    
+ istep =        13001 ntm =          629 time step =    12.00000      hour = 
+   21.12388    
+ istep =        13011 ntm =          630 time step =    12.00000      hour = 
+   21.15722    
+ istep =        13021 ntm =          631 time step =    12.00000      hour = 
+   21.19055    
+ istep =        13031 ntm =          632 time step =    12.00000      hour = 
+   21.22388    
+ istep =        13041 ntm =          633 time step =    12.00000      hour = 
+   21.25722    
+ istep =        13051 ntm =          634 time step =    12.00000      hour = 
+   21.29055    
+ istep =        13061 ntm =          635 time step =    12.00000      hour = 
+   21.32388    
+ istep =        13071 ntm =          636 time step =    12.00000      hour = 
+   21.35722    
+ istep =        13081 ntm =          637 time step =    12.00000      hour = 
+   21.39055    
+ istep =        13091 ntm =          638 time step =    12.00000      hour = 
+   21.42389    
+ istep =        13101 ntm =          639 time step =    12.00000      hour = 
+   21.45722    
+ istep =        13111 ntm =          640 time step =    12.00000      hour = 
+   21.49055    
+ istep =        13121 ntm =          641 time step =    12.00000      hour = 
+   21.52388    
+ istep =        13131 ntm =          642 time step =    12.00000      hour = 
+   21.55722    
+ istep =        13141 ntm =          643 time step =    12.00000      hour = 
+   21.59055    
+ istep =        13151 ntm =          644 time step =    12.00000      hour = 
+   21.62388    
+ istep =        13161 ntm =          645 time step =    12.00000      hour = 
+   21.65722    
+ istep =        13171 ntm =          646 time step =    12.00000      hour = 
+   21.69055    
+ istep =        13181 ntm =          647 time step =    12.00000      hour = 
+   21.72388    
+ istep =        13191 ntm =          648 time step =    12.00000      hour = 
+   21.75722    
+ istep =        13201 ntm =          649 time step =    12.00000      hour = 
+   21.79055    
+ istep =        13211 ntm =          650 time step =    12.00000      hour = 
+   21.82388    
+ istep =        13221 ntm =          651 time step =    12.00000      hour = 
+   21.85722    
+ istep =        13231 ntm =          652 time step =    12.00000      hour = 
+   21.89055    
+ istep =        13241 ntm =          653 time step =    12.00000      hour = 
+   21.92389    
+ istep =        13251 ntm =          654 time step =    12.00000      hour = 
+   21.95722    
+ istep =        13261 ntm =          655 time step =    12.00000      hour = 
+   21.99055    
+ istep =        13271 ntm =          656 time step =    12.00000      hour = 
+   22.02388    
+ istep =        13281 ntm =          657 time step =    12.00000      hour = 
+   22.05722    
+ istep =        13291 ntm =          658 time step =    12.00000      hour = 
+   22.09055    
+ istep =        13301 ntm =          659 time step =    12.00000      hour = 
+   22.12388    
+ istep =        13311 ntm =          660 time step =    12.00000      hour = 
+   22.15722    
+ istep =        13321 ntm =          661 time step =    12.00000      hour = 
+   22.19055    
+ istep =        13331 ntm =          662 time step =    12.00000      hour = 
+   22.22388    
+ istep =        13341 ntm =          663 time step =    12.00000      hour = 
+   22.25722    
+ istep =        13351 ntm =          664 time step =    12.00000      hour = 
+   22.29055    
+ istep =        13361 ntm =          665 time step =    12.00000      hour = 
+   22.32388    
+ istep =        13371 ntm =          666 time step =    12.00000      hour = 
+   22.35722    
+ istep =        13381 ntm =          667 time step =    12.00000      hour = 
+   22.39055    
+ istep =        13391 ntm =          668 time step =    12.00000      hour = 
+   22.42389    
+ istep =        13401 ntm =          669 time step =    12.00000      hour = 
+   22.45722    
+ istep =        13411 ntm =          670 time step =    12.00000      hour = 
+   22.49055    
+ istep =        13421 ntm =          671 time step =    12.00000      hour = 
+   22.52388    
+ istep =        13431 ntm =          672 time step =    12.00000      hour = 
+   22.55722    
+ istep =        13441 ntm =          673 time step =    12.00000      hour = 
+   22.59055    
+ istep =        13451 ntm =          674 time step =    12.00000      hour = 
+   22.62388    
+ istep =        13461 ntm =          675 time step =    12.00000      hour = 
+   22.65722    
+ istep =        13471 ntm =          676 time step =    12.00000      hour = 
+   22.69055    
+ istep =        13481 ntm =          677 time step =    12.00000      hour = 
+   22.72388    
+ istep =        13491 ntm =          678 time step =    12.00000      hour = 
+   22.75722    
+ istep =        13512 ntm =          679 time step =    4.800000      hour = 
+   22.79120    
+ istep =        13537 ntm =          680 time step =    4.800000      hour = 
+   22.82451    
+ istep =        13562 ntm =          681 time step =    4.800000      hour = 
+   22.85783    
+ istep =        13587 ntm =          682 time step =    4.800000      hour = 
+   22.89114    
+ istep =        13612 ntm =          683 time step =    4.800000      hour = 
+   22.92445    
+ istep =        13637 ntm =          684 time step =    4.800000      hour = 
+   22.95776    
+ istep =        13662 ntm =          685 time step =    4.800000      hour = 
+   22.99107    
+ istep =        13687 ntm =          686 time step =    4.800000      hour = 
+   23.02438    
+ istep =        13712 ntm =          687 time step =    4.800000      hour = 
+   23.05770    
+ istep =        13737 ntm =          688 time step =    4.800000      hour = 
+   23.09101    
+ istep =        13762 ntm =          689 time step =    4.800000      hour = 
+   23.12432    
+ istep =        13787 ntm =          690 time step =    4.800000      hour = 
+   23.15763    
+ istep =        13812 ntm =          691 time step =    4.800000      hour = 
+   23.19094    
+ istep =        13837 ntm =          692 time step =    4.800000      hour = 
+   23.22425    
+ istep =        13862 ntm =          693 time step =    4.800000      hour = 
+   23.25756    
+ istep =        13887 ntm =          694 time step =    4.800000      hour = 
+   23.29088    
+ istep =        13912 ntm =          695 time step =    4.800000      hour = 
+   23.32419    
+ istep =        13937 ntm =          696 time step =    4.800000      hour = 
+   23.35750    
+ istep =        13962 ntm =          697 time step =    4.800000      hour = 
+   23.39081    
+ istep =        13987 ntm =          698 time step =    4.800000      hour = 
+   23.42412    
+ istep =        14012 ntm =          699 time step =    4.800000      hour = 
+   23.45744    
+ istep =        14037 ntm =          700 time step =    4.800000      hour = 
+   23.49075    
+ istep =        14062 ntm =          701 time step =    4.800000      hour = 
+   23.52406    
+ istep =        14087 ntm =          702 time step =    4.800000      hour = 
+   23.55737    
+ istep =        14112 ntm =          703 time step =    4.800000      hour = 
+   23.59068    
+ istep =        14137 ntm =          704 time step =    4.800000      hour = 
+   23.62399    
+ istep =        14162 ntm =          705 time step =    4.800000      hour = 
+   23.65730    
+ istep =        14187 ntm =          706 time step =    4.800000      hour = 
+   23.69062    
+ istep =        14212 ntm =          707 time step =    4.800000      hour = 
+   23.72393    
+ istep =        14237 ntm =          708 time step =    4.800000      hour = 
+   23.75724    
+ istep =        14262 ntm =          709 time step =    4.800000      hour = 
+   23.79055    
+ istep =        14287 ntm =          710 time step =    4.800000      hour = 
+   23.82386    
+ istep =        14312 ntm =          711 time step =    4.800000      hour = 
+   23.85717    
+ istep =        14337 ntm =          712 time step =    4.800000      hour = 
+   23.89049    
+ istep =        14362 ntm =          713 time step =    4.800000      hour = 
+   23.92380    
+ istep =        14387 ntm =          714 time step =    4.800000      hour = 
+   23.95711    
+ istep =        14412 ntm =          715 time step =    4.800000      hour = 
+   23.99042    
+ istep =        14437 ntm =          716 time step =    4.800000      hour = 
+   24.02373    
+ istep =        14462 ntm =          717 time step =    4.800000      hour = 
+   24.05704    
+ istep =        14487 ntm =          718 time step =    4.800000      hour = 
+   24.09036    
+ istep =        14512 ntm =          719 time step =    4.800000      hour = 
+   24.12367    
+ istep =        14537 ntm =          720 time step =    4.800000      hour = 
+   24.15698    
+ istep =        14562 ntm =          721 time step =    4.800000      hour = 
+   24.19029    
+ istep =        14587 ntm =          722 time step =    4.800000      hour = 
+   24.22360    
+ istep =        14612 ntm =          723 time step =    4.800000      hour = 
+   24.25691    
+ istep =        14637 ntm =          724 time step =    4.800000      hour = 
+   24.29023    
+ istep =        14662 ntm =          725 time step =    4.800000      hour = 
+   24.32354    
+ istep =        14687 ntm =          726 time step =    4.800000      hour = 
+   24.35685    
+ istep =        14712 ntm =          727 time step =    4.800000      hour = 
+   24.39016    
+ istep =        14737 ntm =          728 time step =    4.800000      hour = 
+   24.42347    
+ istep =        14762 ntm =          729 time step =    4.800000      hour = 
+   24.45678    
+ istep =        14787 ntm =          730 time step =    4.800000      hour = 
+   24.49010    
+ istep =        14812 ntm =          731 time step =    4.800000      hour = 
+   24.52341    
+ istep =        14837 ntm =          732 time step =    4.800000      hour = 
+   24.55672    
+ istep =        14862 ntm =          733 time step =    4.800000      hour = 
+   24.59003    
+ istep =        14887 ntm =          734 time step =    4.800000      hour = 
+   24.62334    
+ istep =        14912 ntm =          735 time step =    4.800000      hour = 
+   24.65665    
+ istep =        14937 ntm =          736 time step =    4.800000      hour = 
+   24.68997    
+ istep =        14962 ntm =          737 time step =    4.800000      hour = 
+   24.72328    
+ istep =        14987 ntm =          738 time step =    4.800000      hour = 
+   24.75659    
+ istep =        15012 ntm =          739 time step =    4.800000      hour = 
+   24.78990    
+ istep =        15037 ntm =          740 time step =    4.800000      hour = 
+   24.82321    
+ istep =        15062 ntm =          741 time step =    4.800000      hour = 
+   24.85652    
+ istep =        15087 ntm =          742 time step =    4.800000      hour = 
+   24.88984    
+ istep =        15112 ntm =          743 time step =    4.800000      hour = 
+   24.92315    
+ istep =        15137 ntm =          744 time step =    4.800000      hour = 
+   24.95646    
+ istep =        15162 ntm =          745 time step =    4.800000      hour = 
+   24.98977    
+ istep =        15187 ntm =          746 time step =    4.800000      hour = 
+   25.02308    
+ istep =        15212 ntm =          747 time step =    4.800000      hour = 
+   25.05639    
+ istep =        15237 ntm =          748 time step =    4.787327      hour = 
+   25.08970    
+ istep =        15263 ntm =          749 time step =    4.718438      hour = 
+   25.12398    
+ istep =        15289 ntm =          750 time step =    4.686848      hour = 
+   25.15794    
+ istep =        15315 ntm =          751 time step =    4.594099      hour = 
+   25.19144    
+ istep =        15342 ntm =          752 time step =    4.557709      hour = 
+   25.22575    
+ istep =        15369 ntm =          753 time step =    4.499321      hour = 
+   25.25980    
+ istep =        15396 ntm =          754 time step =    4.446442      hour = 
+   25.29330    
+ istep =        15424 ntm =          755 time step =    4.423094      hour = 
+   25.32780    
+ istep =        15452 ntm =          756 time step =    4.362236      hour = 
+   25.36201    
+ istep =        15480 ntm =          757 time step =    4.329065      hour = 
+   25.39580    
+ istep =        15508 ntm =          758 time step =    4.305255      hour = 
+   25.42938    
+ istep =        15536 ntm =          759 time step =    4.265827      hour = 
+   25.46275    
+ istep =        15565 ntm =          760 time step =    4.231899      hour = 
+   25.49697    
+ istep =        15594 ntm =          761 time step =    4.204659      hour = 
+   25.53095    
+ istep =        15623 ntm =          762 time step =    4.183374      hour = 
+   25.56474    
+ istep =        15652 ntm =          763 time step =    4.156564      hour = 
+   25.59834    
+ istep =        15681 ntm =          764 time step =    4.129360      hour = 
+   25.63172    
+ istep =        15711 ntm =          765 time step =    4.102087      hour = 
+   25.66603    
+ istep =        15741 ntm =          766 time step =    4.079664      hour = 
+   25.70013    
+ istep =        15771 ntm =          767 time step =    4.055606      hour = 
+   25.73403    
+ istep =        15801 ntm =          768 time step =    4.041070      hour = 
+   25.76780    
+ istep =        15831 ntm =          769 time step =    4.015862      hour = 
+   25.80138    
+ istep =        15861 ntm =          770 time step =    3.995932      hour = 
+   25.83478    
+ istep =        15892 ntm =          771 time step =    3.979109      hour = 
+   25.86910    
+ istep =        15923 ntm =          772 time step =    3.956415      hour = 
+   25.90326    
+ istep =        15954 ntm =          773 time step =    3.956178      hour = 
+   25.93732    
+ istep =        15985 ntm =          774 time step =    3.927554      hour = 
+   25.97125    
+ istep =        16016 ntm =          775 time step =    3.921458      hour = 
+   26.00506    
+ istep =        16047 ntm =          776 time step =    3.901052      hour = 
+   26.03874    
+ istep =        16078 ntm =          777 time step =    3.867611      hour = 
+   26.07217    
+ istep =        16110 ntm =          778 time step =    3.863830      hour = 
+   26.10652    
+ istep =        16142 ntm =          779 time step =    3.872889      hour = 
+   26.14090    
+ istep =        16174 ntm =          780 time step =    3.828576      hour = 
+   26.17515    
+ istep =        16206 ntm =          781 time step =    3.801587      hour = 
+   26.20905    
+ istep =        16238 ntm =          782 time step =    3.803759      hour = 
+   26.24282    
+ istep =        16270 ntm =          783 time step =    3.822104      hour = 
+   26.27672    
+ istep =        16302 ntm =          784 time step =    3.789796      hour = 
+   26.31059    
+ istep =        16334 ntm =          785 time step =    3.762553      hour = 
+   26.34416    
+ istep =        16366 ntm =          786 time step =    3.750888      hour = 
+   26.37753    
+ istep =        16398 ntm =          787 time step =    3.763901      hour = 
+   26.41091    
+ istep =        16430 ntm =          788 time step =    3.777528      hour = 
+   26.44444    
+ istep =        16462 ntm =          789 time step =    3.767726      hour = 
+   26.47798    
+ istep =        16494 ntm =          790 time step =    3.748935      hour = 
+   26.51140    
+ istep =        16527 ntm =          791 time step =    3.729482      hour = 
+   26.54568    
+ istep =        16560 ntm =          792 time step =    3.721560      hour = 
+   26.57981    
+ istep =        16593 ntm =          793 time step =    3.736109      hour = 
+   26.61397    
+ istep =        16626 ntm =          794 time step =    3.748931      hour = 
+   26.64829    
+ istep =        16659 ntm =          795 time step =    3.741309      hour = 
+   26.68264    
+ istep =        16692 ntm =          796 time step =    3.728785      hour = 
+   26.71688    
+ istep =        16725 ntm =          797 time step =    3.719943      hour = 
+   26.75102    
+ istep =        16758 ntm =          798 time step =    3.717330      hour = 
+   26.78511    
+ istep =        16791 ntm =          799 time step =    3.720320      hour = 
+   26.81920    
+ istep =        16824 ntm =          800 time step =    3.732365      hour = 
+   26.85335    
+ istep =        16857 ntm =          801 time step =    3.751507      hour = 
+   26.88764    
+ istep =        16889 ntm =          802 time step =    3.756105      hour = 
+   26.92104    
+ istep =        16921 ntm =          803 time step =    3.754363      hour = 
+   26.95444    
+ istep =        16953 ntm =          804 time step =    3.757739      hour = 
+   26.98784    
+ istep =        16985 ntm =          805 time step =    3.752954      hour = 
+   27.02122    
+ istep =        17017 ntm =          806 time step =    3.755629      hour = 
+   27.05458    
+ istep =        17049 ntm =          807 time step =    3.760232      hour = 
+   27.08799    
+ istep =        17081 ntm =          808 time step =    3.764769      hour = 
+   27.12144    
+ istep =        17113 ntm =          809 time step =    3.769820      hour = 
+   27.15492    
+ istep =        17145 ntm =          810 time step =    3.777082      hour = 
+   27.18846    
+ istep =        17177 ntm =          811 time step =    3.776560      hour = 
+   27.22201    
+ istep =        17209 ntm =          812 time step =    3.783205      hour = 
+   27.25561    
+ istep =        17241 ntm =          813 time step =    3.790582      hour = 
+   27.28926    
+ istep =        17273 ntm =          814 time step =    3.800878      hour = 
+   27.32300    
+ istep =        17305 ntm =          815 time step =    3.810520      hour = 
+   27.35683    
+ istep =        17337 ntm =          816 time step =    3.817718      hour = 
+   27.39074    
+ istep =        17369 ntm =          817 time step =    3.824099      hour = 
+   27.42470    
+ istep =        17401 ntm =          818 time step =    3.832473      hour = 
+   27.45872    
+ istep =        17433 ntm =          819 time step =    3.840568      hour = 
+   27.49283    
+ istep =        17465 ntm =          820 time step =    3.847852      hour = 
+   27.52699    
+ istep =        17497 ntm =          821 time step =    3.857565      hour = 
+   27.56124    
+ istep =        17529 ntm =          822 time step =    3.867609      hour = 
+   27.59558    
+ istep =        17560 ntm =          823 time step =    3.878972      hour = 
+   27.62892    
+ istep =        17591 ntm =          824 time step =    3.890655      hour = 
+   27.66237    
+ istep =        17622 ntm =          825 time step =    3.903166      hour = 
+   27.69593    
+ istep =        17653 ntm =          826 time step =    3.913934      hour = 
+   27.72958    
+ istep =        17684 ntm =          827 time step =    3.923185      hour = 
+   27.76333    
+ istep =        17715 ntm =          828 time step =    3.932000      hour = 
+   27.79716    
+ istep =        17746 ntm =          829 time step =    3.946303      hour = 
+   27.83108    
+ istep =        17777 ntm =          830 time step =    3.959960      hour = 
+   27.86511    
+ istep =        17808 ntm =          831 time step =    3.973670      hour = 
+   27.89927    
+ istep =        17839 ntm =          832 time step =    3.982790      hour = 
+   27.93352    
+ istep =        17870 ntm =          833 time step =    3.995928      hour = 
+   27.96787    
+ istep =        17900 ntm =          834 time step =    4.007276      hour = 
+   28.00122    
+ istep =        17930 ntm =          835 time step =    4.018580      hour = 
+   28.03466    
+ istep =        17960 ntm =          836 time step =    4.032886      hour = 
+   28.06821    
+ istep =        17990 ntm =          837 time step =    4.046482      hour = 
+   28.10187    
+ istep =        18020 ntm =          838 time step =    4.063785      hour = 
+   28.13566    
+ istep =        18050 ntm =          839 time step =    4.076630      hour = 
+   28.16958    
+ istep =        18080 ntm =          840 time step =    4.091660      hour = 
+   28.20361    
+ istep =        18110 ntm =          841 time step =    4.103031      hour = 
+   28.23775    
+ istep =        18140 ntm =          842 time step =    4.115859      hour = 
+   28.27200    
+ istep =        18170 ntm =          843 time step =    4.132199      hour = 
+   28.30636    
+ istep =        18199 ntm =          844 time step =    4.146697      hour = 
+   28.33970    
+ istep =        18228 ntm =          845 time step =    4.161183      hour = 
+   28.37316    
+ istep =        18257 ntm =          846 time step =    4.176342      hour = 
+   28.40673    
+ istep =        18286 ntm =          847 time step =    4.191378      hour = 
+   28.44044    
+ istep =        18315 ntm =          848 time step =    4.205347      hour = 
+   28.47425    
+ istep =        18344 ntm =          849 time step =    4.219240      hour = 
+   28.50819    
+ istep =        18373 ntm =          850 time step =    4.233207      hour = 
+   28.54223    
+ istep =        18402 ntm =          851 time step =    4.245636      hour = 
+   28.57638    
+ istep =        18431 ntm =          852 time step =    4.265075      hour = 
+   28.61066    
+ istep =        18460 ntm =          853 time step =    4.282578      hour = 
+   28.64508    
+ istep =        18488 ntm =          854 time step =    4.299369      hour = 
+   28.67846    
+ istep =        18516 ntm =          855 time step =    4.315883      hour = 
+   28.71195    
+ istep =        18544 ntm =          856 time step =    4.326935      hour = 
+   28.74557    
+ istep =        18572 ntm =          857 time step =    4.341434      hour = 
+   28.77927    
+ istep =        18600 ntm =          858 time step =    4.355909      hour = 
+   28.81309    
+ istep =        18628 ntm =          859 time step =    4.373129      hour = 
+   28.84703    
+ istep =        18656 ntm =          860 time step =    4.388128      hour = 
+   28.88110    
+ istep =        18684 ntm =          861 time step =    4.403301      hour = 
+   28.91528    
+ istep =        18712 ntm =          862 time step =    4.413312      hour = 
+   28.94958    
+ istep =        18740 ntm =          863 time step =    4.425235      hour = 
+   28.98395    
+ istep =        18768 ntm =          864 time step =    4.439323      hour = 
+   29.01842    
+ istep =        18795 ntm =          865 time step =    4.452859      hour = 
+   29.05177    
+ istep =        18822 ntm =          866 time step =    4.468982      hour = 
+   29.08522    
+ istep =        18849 ntm =          867 time step =    4.482732      hour = 
+   29.11879    
+ istep =        18876 ntm =          868 time step =    4.499013      hour = 
+   29.15247    
+ istep =        18903 ntm =          869 time step =    4.511129      hour = 
+   29.18625    
+ istep =        18930 ntm =          870 time step =    4.522939      hour = 
+   29.22013    
+ istep =        18957 ntm =          871 time step =    4.533669      hour = 
+   29.25409    
+ istep =        18984 ntm =          872 time step =    4.548384      hour = 
+   29.28815    
+ istep =        19011 ntm =          873 time step =    4.563861      hour = 
+   29.32232    
+ istep =        19038 ntm =          874 time step =    4.578751      hour = 
+   29.35660    
+ istep =        19065 ntm =          875 time step =    4.594969      hour = 
+   29.39100    
+ istep =        19092 ntm =          876 time step =    4.609344      hour = 
+   29.42551    
+ istep =        19118 ntm =          877 time step =    4.623616      hour = 
+   29.45885    
+ istep =        19144 ntm =          878 time step =    4.635852      hour = 
+   29.49228    
+ istep =        19170 ntm =          879 time step =    4.647123      hour = 
+   29.52580    
+ istep =        19196 ntm =          880 time step =    4.657619      hour = 
+   29.55940    
+ istep =        19222 ntm =          881 time step =    4.671813      hour = 
+   29.59309    
+ istep =        19248 ntm =          882 time step =    4.685417      hour = 
+   29.62687    
+ istep =        19274 ntm =          883 time step =    4.700925      hour = 
+   29.66076    
+ istep =        19300 ntm =          884 time step =    4.712994      hour = 
+   29.69476    
+ istep =        19326 ntm =          885 time step =    4.725924      hour = 
+   29.72885    
+ istep =        19352 ntm =          886 time step =    4.738708      hour = 
+   29.76302    
+ istep =        19378 ntm =          887 time step =    4.749672      hour = 
+   29.79729    
+ istep =        19404 ntm =          888 time step =    4.760264      hour = 
+   29.83162    
+ istep =        19430 ntm =          889 time step =    4.774220      hour = 
+   29.86606    
+ istep =        19456 ntm =          890 time step =    4.785683      hour = 
+   29.90058    
+ istep =        19482 ntm =          891 time step =    4.794175      hour = 
+   29.93517    
+ istep =        19508 ntm =          892 time step =    4.800000      hour = 
+   29.96981    
+ istep =        19533 ntm =          893 time step =    4.800000      hour = 
+   30.00312    
+ istep =        19558 ntm =          894 time step =    4.800000      hour = 
+   30.03643    
+ istep =        19583 ntm =          895 time step =    4.800000      hour = 
+   30.06975    
+ istep =        19608 ntm =          896 time step =    4.800000      hour = 
+   30.10306    
+ istep =        19633 ntm =          897 time step =    4.800000      hour = 
+   30.13637    
+ istep =        19658 ntm =          898 time step =    4.800000      hour = 
+   30.16968    
+ istep =        19683 ntm =          899 time step =    4.800000      hour = 
+   30.20299    
+ istep =        19708 ntm =          900 time step =    4.800000      hour = 
+   30.23630    
+ istep =        19733 ntm =          901 time step =    4.800000      hour = 
+   30.26962    
+ istep =        19758 ntm =          902 time step =    4.800000      hour = 
+   30.30293    
+ istep =        19783 ntm =          903 time step =    4.800000      hour = 
+   30.33624    
+ istep =        19808 ntm =          904 time step =    4.800000      hour = 
+   30.36955    
+ istep =        19833 ntm =          905 time step =    4.800000      hour = 
+   30.40286    
+ istep =        19858 ntm =          906 time step =    4.800000      hour = 
+   30.43617    
+ istep =        19883 ntm =          907 time step =    4.800000      hour = 
+   30.46949    
+ istep =        19908 ntm =          908 time step =    4.800000      hour = 
+   30.50280    
+ istep =        19933 ntm =          909 time step =    4.800000      hour = 
+   30.53611    
+ istep =        19958 ntm =          910 time step =    4.800000      hour = 
+   30.56942    
+ istep =        19983 ntm =          911 time step =    4.800000      hour = 
+   30.60273    
+ istep =        20008 ntm =          912 time step =    4.800000      hour = 
+   30.63604    
+ istep =        20033 ntm =          913 time step =    4.800000      hour = 
+   30.66936    
+ istep =        20058 ntm =          914 time step =    4.800000      hour = 
+   30.70267    
+ istep =        20083 ntm =          915 time step =    4.800000      hour = 
+   30.73598    
+ istep =        20108 ntm =          916 time step =    4.800000      hour = 
+   30.76929    
+ istep =        20133 ntm =          917 time step =    4.800000      hour = 
+   30.80260    
+ istep =        20158 ntm =          918 time step =    4.800000      hour = 
+   30.83591    
+ istep =        20183 ntm =          919 time step =    4.800000      hour = 
+   30.86922    
+ istep =        20208 ntm =          920 time step =    4.800000      hour = 
+   30.90254    
+ istep =        20233 ntm =          921 time step =    4.800000      hour = 
+   30.93585    
+ istep =        20258 ntm =          922 time step =    4.800000      hour = 
+   30.96916    
+ istep =        20283 ntm =          923 time step =    4.800000      hour = 
+   31.00247    
+ istep =        20308 ntm =          924 time step =    4.800000      hour = 
+   31.03578    
+ istep =        20333 ntm =          925 time step =    4.800000      hour = 
+   31.06910    
+ istep =        20358 ntm =          926 time step =    4.800000      hour = 
+   31.10241    
+ istep =        20383 ntm =          927 time step =    4.800000      hour = 
+   31.13572    
+ istep =        20408 ntm =          928 time step =    4.800000      hour = 
+   31.16903    
+ istep =        20433 ntm =          929 time step =    4.800000      hour = 
+   31.20234    
+ istep =        20458 ntm =          930 time step =    4.800000      hour = 
+   31.23565    
+ istep =        20483 ntm =          931 time step =    4.800000      hour = 
+   31.26896    
+ istep =        20508 ntm =          932 time step =    4.800000      hour = 
+   31.30228    
+ istep =        20533 ntm =          933 time step =    4.800000      hour = 
+   31.33559    
+ istep =        20558 ntm =          934 time step =    4.800000      hour = 
+   31.36890    
+ istep =        20583 ntm =          935 time step =    4.800000      hour = 
+   31.40221    
+ istep =        20608 ntm =          936 time step =    4.800000      hour = 
+   31.43552    
+ istep =        20633 ntm =          937 time step =    4.800000      hour = 
+   31.46883    
+ istep =        20658 ntm =          938 time step =    4.800000      hour = 
+   31.50215    
+ istep =        20683 ntm =          939 time step =    4.800000      hour = 
+   31.53546    
+ istep =        20708 ntm =          940 time step =    4.800000      hour = 
+   31.56877    
+ istep =        20733 ntm =          941 time step =    4.800000      hour = 
+   31.60208    
+ istep =        20758 ntm =          942 time step =    4.800000      hour = 
+   31.63539    
+ istep =        20783 ntm =          943 time step =    4.800000      hour = 
+   31.66870    
+ istep =        20808 ntm =          944 time step =    4.800000      hour = 
+   31.70202    
+ istep =        20833 ntm =          945 time step =    4.800000      hour = 
+   31.73533    
+ istep =        20858 ntm =          946 time step =    4.800000      hour = 
+   31.76864    
+ istep =        20883 ntm =          947 time step =    4.800000      hour = 
+   31.80195    
+ istep =        20908 ntm =          948 time step =    4.800000      hour = 
+   31.83526    
+ istep =        20933 ntm =          949 time step =    4.800000      hour = 
+   31.86857    
+ istep =        20958 ntm =          950 time step =    4.800000      hour = 
+   31.90189    
+ istep =        20983 ntm =          951 time step =    4.800000      hour = 
+   31.93520    
+ istep =        21008 ntm =          952 time step =    4.800000      hour = 
+   31.96851    
+ istep =        21033 ntm =          953 time step =    4.800000      hour = 
+   32.00182    
+ istep =        21058 ntm =          954 time step =    4.800000      hour = 
+   32.03513    
+ istep =        21083 ntm =          955 time step =    4.800000      hour = 
+   32.06844    
+ istep =        21108 ntm =          956 time step =    4.800000      hour = 
+   32.10176    
+ istep =        21133 ntm =          957 time step =    4.800000      hour = 
+   32.13507    
+ istep =        21158 ntm =          958 time step =    4.800000      hour = 
+   32.16838    
+ istep =        21183 ntm =          959 time step =    4.800000      hour = 
+   32.20169    
+ istep =        21208 ntm =          960 time step =    4.800000      hour = 
+   32.23500    
+ istep =        21233 ntm =          961 time step =    4.800000      hour = 
+   32.26831    
+ istep =        21259 ntm =          962 time step =    4.781086      hour = 
+   32.30291    
+ istep =        21285 ntm =          963 time step =    4.758330      hour = 
+   32.33737    
+ istep =        21311 ntm =          964 time step =    4.733752      hour = 
+   32.37165    
+ istep =        21337 ntm =          965 time step =    4.708347      hour = 
+   32.40575    
+ istep =        21363 ntm =          966 time step =    4.688188      hour = 
+   32.43968    
+ istep =        21389 ntm =          967 time step =    4.669472      hour = 
+   32.47347    
+ istep =        21415 ntm =          968 time step =    4.654797      hour = 
+   32.50714    
+ istep =        21441 ntm =          969 time step =    4.636231      hour = 
+   32.54071    
+ istep =        21467 ntm =          970 time step =    4.614031      hour = 
+   32.57412    
+ istep =        21494 ntm =          971 time step =    4.583357      hour = 
+   32.60861    
+ istep =        21521 ntm =          972 time step =    4.555062      hour = 
+   32.64289    
+ istep =        21548 ntm =          973 time step =    4.528878      hour = 
+   32.67695    
+ istep =        21575 ntm =          974 time step =    4.509632      hour = 
+   32.71084    
+ istep =        21602 ntm =          975 time step =    4.492405      hour = 
+   32.74460    
+ istep =        21629 ntm =          976 time step =    4.471736      hour = 
+   32.77823    
+ istep =        21656 ntm =          977 time step =    4.444471      hour = 
+   32.81167    
+ istep =        21684 ntm =          978 time step =    4.413360      hour = 
+   32.84612    
+ istep =        21712 ntm =          979 time step =    4.383764      hour = 
+   32.88033    
+ istep =        21740 ntm =          980 time step =    4.363735      hour = 
+   32.91435    
+ istep =        21768 ntm =          981 time step =    4.345881      hour = 
+   32.94822    
+ istep =        21796 ntm =          982 time step =    4.332649      hour = 
+   32.98198    
+ istep =        21824 ntm =          983 time step =    4.317540      hour = 
+   33.01562    
+ istep =        21852 ntm =          984 time step =    4.295763      hour = 
+   33.04912    
+ istep =        21881 ntm =          985 time step =    4.271857      hour = 
+   33.08363    
+ istep =        21910 ntm =          986 time step =    4.249650      hour = 
+   33.11796    
+ istep =        21939 ntm =          987 time step =    4.228934      hour = 
+   33.15211    
+ istep =        21968 ntm =          988 time step =    4.203390      hour = 
+   33.18608    
+ istep =        21997 ntm =          989 time step =    4.181427      hour = 
+   33.21984    
+ istep =        22026 ntm =          990 time step =    4.167089      hour = 
+   33.25347    
+ istep =        22055 ntm =          991 time step =    4.153852      hour = 
+   33.28699    
+ istep =        22084 ntm =          992 time step =    4.140704      hour = 
+   33.32040    
+ istep =        22114 ntm =          993 time step =    4.123663      hour = 
+   33.35484    
+ istep =        22144 ntm =          994 time step =    4.110377      hour = 
+   33.38914    
+ istep =        22174 ntm =          995 time step =    4.102837      hour = 
+   33.42335    
+ istep =        22204 ntm =          996 time step =    4.106566      hour = 
+   33.45754    
+ istep =        22234 ntm =          997 time step =    4.122993      hour = 
+   33.49183    
+ istep =        22264 ntm =          998 time step =    4.150968      hour = 
+   33.52629    
+ istep =        22293 ntm =          999 time step =    4.192193      hour = 
+   33.55988    
+ istep =        22322 ntm =         1000 time step =    4.255647      hour = 
+   33.59387    
+ istep =        22350 ntm =         1001 time step =    4.343983      hour = 
+   33.62729    
+ istep =        22378 ntm =         1002 time step =    4.419511      hour = 
+   33.66133    
+ istep =        22405 ntm =         1003 time step =    4.604689      hour = 
+   33.69511    
+ istep =        22431 ntm =         1004 time step =    4.741253      hour = 
+   33.72889    
+ istep =        22457 ntm =         1005 time step =    4.800000      hour = 
+   33.76346    
+ istep =        22482 ntm =         1006 time step =    4.800000      hour = 
+   33.79677    
+ istep =        22507 ntm =         1007 time step =    4.800000      hour = 
+   33.83008    
+ istep =        22532 ntm =         1008 time step =    4.800000      hour = 
+   33.86340    
+ istep =        22557 ntm =         1009 time step =    4.800000      hour = 
+   33.89671    
+ istep =        22582 ntm =         1010 time step =    4.800000      hour = 
+   33.93002    
+ istep =        22607 ntm =         1011 time step =    4.800000      hour = 
+   33.96333    
+ istep =        22632 ntm =         1012 time step =    4.800000      hour = 
+   33.99664    
+ istep =        22657 ntm =         1013 time step =    4.800000      hour = 
+   34.02995    
+ istep =        22682 ntm =         1014 time step =    4.800000      hour = 
+   34.06326    
+ istep =        22707 ntm =         1015 time step =    4.800000      hour = 
+   34.09658    
+ istep =        22732 ntm =         1016 time step =    4.800000      hour = 
+   34.12989    
+ istep =        22757 ntm =         1017 time step =    4.800000      hour = 
+   34.16320    
+ istep =        22782 ntm =         1018 time step =    4.800000      hour = 
+   34.19651    
+ istep =        22807 ntm =         1019 time step =    4.800000      hour = 
+   34.22982    
+ istep =        22832 ntm =         1020 time step =    4.800000      hour = 
+   34.26313    
+ istep =        22857 ntm =         1021 time step =    4.800000      hour = 
+   34.29644    
+ istep =        22882 ntm =         1022 time step =    4.800000      hour = 
+   34.32976    
+ istep =        22907 ntm =         1023 time step =    4.800000      hour = 
+   34.36307    
+ istep =        22932 ntm =         1024 time step =    4.800000      hour = 
+   34.39638    
+ istep =        22957 ntm =         1025 time step =    4.800000      hour = 
+   34.42969    
+ istep =        22982 ntm =         1026 time step =    4.800000      hour = 
+   34.46301    
+ istep =        23007 ntm =         1027 time step =    4.800000      hour = 
+   34.49632    
+ istep =        23032 ntm =         1028 time step =    4.800000      hour = 
+   34.52962    
+ istep =        23057 ntm =         1029 time step =    4.800000      hour = 
+   34.56294    
+ istep =        23082 ntm =         1030 time step =    4.800000      hour = 
+   34.59625    
+ istep =        23107 ntm =         1031 time step =    4.800000      hour = 
+   34.62956    
+ istep =        23132 ntm =         1032 time step =    4.800000      hour = 
+   34.66287    
+ istep =        23157 ntm =         1033 time step =    4.800000      hour = 
+   34.69619    
+ istep =        23182 ntm =         1034 time step =    4.800000      hour = 
+   34.72950    
+ istep =        23207 ntm =         1035 time step =    4.800000      hour = 
+   34.76281    
+ istep =        23221 ntm =         1036 time step =    9.759422      hour = 
+   34.79631    
+ istep =        23234 ntm =         1037 time step =    10.22374      hour = 
+   34.83222    
+ istep =        23246 ntm =         1038 time step =    10.40244      hour = 
+   34.86662    
+ istep =        23258 ntm =         1039 time step =    10.73704      hour = 
+   34.90166    
+ istep =        23270 ntm =         1040 time step =    10.97519      hour = 
+   34.93796    
+ istep =        23281 ntm =         1041 time step =    11.23080      hour = 
+   34.97173    
+ istep =        23292 ntm =         1042 time step =    11.60787      hour = 
+   35.00671    
+ istep =        23303 ntm =         1043 time step =    11.76396      hour = 
+   35.04229    
+ istep =        23314 ntm =         1044 time step =    12.00000      hour = 
+   35.07875    
+ istep =        23324 ntm =         1045 time step =    12.00000      hour = 
+   35.11208    
+ istep =        23334 ntm =         1046 time step =    12.00000      hour = 
+   35.14541    
+ istep =        23344 ntm =         1047 time step =    12.00000      hour = 
+   35.17875    
+ istep =        23354 ntm =         1048 time step =    12.00000      hour = 
+   35.21208    
+ istep =        23364 ntm =         1049 time step =    12.00000      hour = 
+   35.24541    
+ istep =        23374 ntm =         1050 time step =    12.00000      hour = 
+   35.27875    
+ istep =        23384 ntm =         1051 time step =    12.00000      hour = 
+   35.31208    
+ istep =        23394 ntm =         1052 time step =    12.00000      hour = 
+   35.34541    
+ istep =        23404 ntm =         1053 time step =    12.00000      hour = 
+   35.37875    
+ istep =        23414 ntm =         1054 time step =    12.00000      hour = 
+   35.41208    
+ istep =        23424 ntm =         1055 time step =    12.00000      hour = 
+   35.44541    
+ istep =        23434 ntm =         1056 time step =    12.00000      hour = 
+   35.47874    
+ istep =        23444 ntm =         1057 time step =    12.00000      hour = 
+   35.51208    
+ istep =        23454 ntm =         1058 time step =    12.00000      hour = 
+   35.54541    
+ istep =        23464 ntm =         1059 time step =    12.00000      hour = 
+   35.57875    
+ istep =        23474 ntm =         1060 time step =    12.00000      hour = 
+   35.61208    
+ istep =        23484 ntm =         1061 time step =    12.00000      hour = 
+   35.64541    
+ istep =        23494 ntm =         1062 time step =    12.00000      hour = 
+   35.67875    
+ istep =        23504 ntm =         1063 time step =    12.00000      hour = 
+   35.71208    
+ istep =        23514 ntm =         1064 time step =    12.00000      hour = 
+   35.74541    
+ istep =        23524 ntm =         1065 time step =    12.00000      hour = 
+   35.77875    
+ istep =        23534 ntm =         1066 time step =    12.00000      hour = 
+   35.81208    
+ istep =        23544 ntm =         1067 time step =    12.00000      hour = 
+   35.84541    
+ istep =        23554 ntm =         1068 time step =    12.00000      hour = 
+   35.87875    
+ istep =        23564 ntm =         1069 time step =    12.00000      hour = 
+   35.91208    
+ istep =        23574 ntm =         1070 time step =    12.00000      hour = 
+   35.94541    
+ istep =        23584 ntm =         1071 time step =    12.00000      hour = 
+   35.97874    
+ istep =        23594 ntm =         1072 time step =    12.00000      hour = 
+   36.01208    
+ istep =        23604 ntm =         1073 time step =    12.00000      hour = 
+   36.04541    
+ istep =        23614 ntm =         1074 time step =    12.00000      hour = 
+   36.07875    
+ istep =        23624 ntm =         1075 time step =    12.00000      hour = 
+   36.11208    
+ istep =        23634 ntm =         1076 time step =    12.00000      hour = 
+   36.14541    
+ istep =        23644 ntm =         1077 time step =    12.00000      hour = 
+   36.17875    
+ istep =        23654 ntm =         1078 time step =    12.00000      hour = 
+   36.21208    
+ istep =        23664 ntm =         1079 time step =    12.00000      hour = 
+   36.24541    
+ istep =        23674 ntm =         1080 time step =    12.00000      hour = 
+   36.27875    
+ istep =        23684 ntm =         1081 time step =    12.00000      hour = 
+   36.31208    
+ istep =        23694 ntm =         1082 time step =    12.00000      hour = 
+   36.34541    
+ istep =        23704 ntm =         1083 time step =    12.00000      hour = 
+   36.37875    
+ istep =        23714 ntm =         1084 time step =    12.00000      hour = 
+   36.41208    
+ istep =        23724 ntm =         1085 time step =    12.00000      hour = 
+   36.44541    
+ istep =        23734 ntm =         1086 time step =    12.00000      hour = 
+   36.47874    
+ istep =        23744 ntm =         1087 time step =    12.00000      hour = 
+   36.51208    
+ istep =        23754 ntm =         1088 time step =    12.00000      hour = 
+   36.54541    
+ istep =        23764 ntm =         1089 time step =    12.00000      hour = 
+   36.57875    
+ istep =        23774 ntm =         1090 time step =    12.00000      hour = 
+   36.61208    
+ istep =        23784 ntm =         1091 time step =    12.00000      hour = 
+   36.64541    
+ istep =        23794 ntm =         1092 time step =    12.00000      hour = 
+   36.67875    
+ istep =        23804 ntm =         1093 time step =    12.00000      hour = 
+   36.71208    
+ istep =        23814 ntm =         1094 time step =    12.00000      hour = 
+   36.74541    
+ istep =        23824 ntm =         1095 time step =    12.00000      hour = 
+   36.77875    
+ istep =        23834 ntm =         1096 time step =    12.00000      hour = 
+   36.81208    
+ istep =        23844 ntm =         1097 time step =    12.00000      hour = 
+   36.84541    
+ istep =        23854 ntm =         1098 time step =    12.00000      hour = 
+   36.87875    
+ istep =        23864 ntm =         1099 time step =    12.00000      hour = 
+   36.91208    
+ istep =        23874 ntm =         1100 time step =    12.00000      hour = 
+   36.94541    
+ istep =        23884 ntm =         1101 time step =    12.00000      hour = 
+   36.97874    
+ istep =        23894 ntm =         1102 time step =    12.00000      hour = 
+   37.01208    
+ istep =        23904 ntm =         1103 time step =    12.00000      hour = 
+   37.04541    
+ istep =        23914 ntm =         1104 time step =    12.00000      hour = 
+   37.07875    
+ istep =        23924 ntm =         1105 time step =    12.00000      hour = 
+   37.11208    
+ istep =        23934 ntm =         1106 time step =    12.00000      hour = 
+   37.14541    
+ istep =        23944 ntm =         1107 time step =    12.00000      hour = 
+   37.17875    
+ istep =        23954 ntm =         1108 time step =    12.00000      hour = 
+   37.21208    
+ istep =        23964 ntm =         1109 time step =    12.00000      hour = 
+   37.24541    
+ istep =        23974 ntm =         1110 time step =    12.00000      hour = 
+   37.27875    
+ istep =        23984 ntm =         1111 time step =    12.00000      hour = 
+   37.31208    
+ istep =        23994 ntm =         1112 time step =    12.00000      hour = 
+   37.34541    
+ istep =        24004 ntm =         1113 time step =    12.00000      hour = 
+   37.37875    
+ istep =        24014 ntm =         1114 time step =    12.00000      hour = 
+   37.41208    
+ istep =        24024 ntm =         1115 time step =    12.00000      hour = 
+   37.44541    
+ istep =        24034 ntm =         1116 time step =    12.00000      hour = 
+   37.47874    
+ istep =        24044 ntm =         1117 time step =    12.00000      hour = 
+   37.51208    
+ istep =        24054 ntm =         1118 time step =    12.00000      hour = 
+   37.54541    
+ istep =        24064 ntm =         1119 time step =    12.00000      hour = 
+   37.57875    
+ istep =        24074 ntm =         1120 time step =    12.00000      hour = 
+   37.61208    
+ istep =        24084 ntm =         1121 time step =    12.00000      hour = 
+   37.64541    
+ istep =        24094 ntm =         1122 time step =    12.00000      hour = 
+   37.67875    
+ istep =        24104 ntm =         1123 time step =    12.00000      hour = 
+   37.71208    
+ istep =        24114 ntm =         1124 time step =    12.00000      hour = 
+   37.74541    
+ istep =        24124 ntm =         1125 time step =    12.00000      hour = 
+   37.77875    
+ istep =        24134 ntm =         1126 time step =    12.00000      hour = 
+   37.81208    
+ istep =        24144 ntm =         1127 time step =    12.00000      hour = 
+   37.84541    
+ istep =        24154 ntm =         1128 time step =    12.00000      hour = 
+   37.87875    
+ istep =        24164 ntm =         1129 time step =    12.00000      hour = 
+   37.91208    
+ istep =        24174 ntm =         1130 time step =    12.00000      hour = 
+   37.94541    
+ istep =        24184 ntm =         1131 time step =    12.00000      hour = 
+   37.97874    
+ istep =        24194 ntm =         1132 time step =    12.00000      hour = 
+   38.01208    
+ istep =        24204 ntm =         1133 time step =    12.00000      hour = 
+   38.04541    
+ istep =        24214 ntm =         1134 time step =    12.00000      hour = 
+   38.07875    
+ istep =        24224 ntm =         1135 time step =    12.00000      hour = 
+   38.11208    
+ istep =        24234 ntm =         1136 time step =    12.00000      hour = 
+   38.14541    
+ istep =        24244 ntm =         1137 time step =    12.00000      hour = 
+   38.17875    
+ istep =        24254 ntm =         1138 time step =    12.00000      hour = 
+   38.21208    
+ istep =        24264 ntm =         1139 time step =    12.00000      hour = 
+   38.24541    
+ istep =        24274 ntm =         1140 time step =    12.00000      hour = 
+   38.27875    
+ istep =        24284 ntm =         1141 time step =    12.00000      hour = 
+   38.31208    
+ istep =        24294 ntm =         1142 time step =    12.00000      hour = 
+   38.34541    
+ istep =        24304 ntm =         1143 time step =    12.00000      hour = 
+   38.37875    
+ istep =        24314 ntm =         1144 time step =    12.00000      hour = 
+   38.41208    
+ istep =        24324 ntm =         1145 time step =    12.00000      hour = 
+   38.44541    
+ istep =        24334 ntm =         1146 time step =    12.00000      hour = 
+   38.47874    
+ istep =        24344 ntm =         1147 time step =    12.00000      hour = 
+   38.51208    
+ istep =        24354 ntm =         1148 time step =    12.00000      hour = 
+   38.54541    
+ istep =        24364 ntm =         1149 time step =    12.00000      hour = 
+   38.57875    
+ istep =        24374 ntm =         1150 time step =    12.00000      hour = 
+   38.61208    
+ istep =        24384 ntm =         1151 time step =    12.00000      hour = 
+   38.64541    
+ istep =        24394 ntm =         1152 time step =    12.00000      hour = 
+   38.67875    
+ istep =        24404 ntm =         1153 time step =    12.00000      hour = 
+   38.71208    
+ istep =        24414 ntm =         1154 time step =    12.00000      hour = 
+   38.74541    
+ istep =        24424 ntm =         1155 time step =    12.00000      hour = 
+   38.77875    
+ istep =        24434 ntm =         1156 time step =    12.00000      hour = 
+   38.81208    
+ istep =        24444 ntm =         1157 time step =    12.00000      hour = 
+   38.84541    
+ istep =        24454 ntm =         1158 time step =    12.00000      hour = 
+   38.87875    
+ istep =        24464 ntm =         1159 time step =    12.00000      hour = 
+   38.91208    
+ istep =        24474 ntm =         1160 time step =    12.00000      hour = 
+   38.94541    
+ istep =        24484 ntm =         1161 time step =    12.00000      hour = 
+   38.97874    
+ istep =        24494 ntm =         1162 time step =    12.00000      hour = 
+   39.01208    
+ istep =        24504 ntm =         1163 time step =    12.00000      hour = 
+   39.04541    
+ istep =        24514 ntm =         1164 time step =    12.00000      hour = 
+   39.07875    
+ istep =        24524 ntm =         1165 time step =    12.00000      hour = 
+   39.11208    
+ istep =        24534 ntm =         1166 time step =    12.00000      hour = 
+   39.14541    
+ istep =        24544 ntm =         1167 time step =    12.00000      hour = 
+   39.17875    
+ istep =        24554 ntm =         1168 time step =    12.00000      hour = 
+   39.21208    
+ istep =        24564 ntm =         1169 time step =    12.00000      hour = 
+   39.24541    
+ istep =        24574 ntm =         1170 time step =    12.00000      hour = 
+   39.27875    
+ istep =        24584 ntm =         1171 time step =    12.00000      hour = 
+   39.31208    
+ istep =        24594 ntm =         1172 time step =    12.00000      hour = 
+   39.34541    
+ istep =        24604 ntm =         1173 time step =    12.00000      hour = 
+   39.37875    
+ istep =        24614 ntm =         1174 time step =    12.00000      hour = 
+   39.41208    
+ istep =        24624 ntm =         1175 time step =    12.00000      hour = 
+   39.44541    
+ istep =        24634 ntm =         1176 time step =    12.00000      hour = 
+   39.47874    
+ istep =        24644 ntm =         1177 time step =    12.00000      hour = 
+   39.51208    
+ istep =        24654 ntm =         1178 time step =    12.00000      hour = 
+   39.54541    
+ istep =        24664 ntm =         1179 time step =    12.00000      hour = 
+   39.57875    
+ istep =        24674 ntm =         1180 time step =    12.00000      hour = 
+   39.61208    
+ istep =        24684 ntm =         1181 time step =    12.00000      hour = 
+   39.64541    
+ istep =        24694 ntm =         1182 time step =    12.00000      hour = 
+   39.67875    
+ istep =        24704 ntm =         1183 time step =    12.00000      hour = 
+   39.71208    
+ istep =        24714 ntm =         1184 time step =    12.00000      hour = 
+   39.74541    
+ istep =        24724 ntm =         1185 time step =    12.00000      hour = 
+   39.77875    
+ istep =        24734 ntm =         1186 time step =    12.00000      hour = 
+   39.81208    
+ istep =        24744 ntm =         1187 time step =    12.00000      hour = 
+   39.84541    
+ istep =        24754 ntm =         1188 time step =    12.00000      hour = 
+   39.87875    
+ istep =        24764 ntm =         1189 time step =    12.00000      hour = 
+   39.91208    
+ istep =        24774 ntm =         1190 time step =    12.00000      hour = 
+   39.94541    
+ istep =        24784 ntm =         1191 time step =    12.00000      hour = 
+   39.97874    
+ istep =        24794 ntm =         1192 time step =    12.00000      hour = 
+   40.01208    
+ istep =        24804 ntm =         1193 time step =    12.00000      hour = 
+   40.04541    
+ istep =        24814 ntm =         1194 time step =    12.00000      hour = 
+   40.07875    
+ istep =        24824 ntm =         1195 time step =    12.00000      hour = 
+   40.11208    
+ istep =        24834 ntm =         1196 time step =    12.00000      hour = 
+   40.14541    
+ istep =        24844 ntm =         1197 time step =    12.00000      hour = 
+   40.17875    
+ istep =        24854 ntm =         1198 time step =    12.00000      hour = 
+   40.21208    
+ istep =        24864 ntm =         1199 time step =    12.00000      hour = 
+   40.24541    
+ istep =        24874 ntm =         1200 time step =    12.00000      hour = 
+   40.27875    
+ istep =        24884 ntm =         1201 time step =    12.00000      hour = 
+   40.31208    
+ istep =        24894 ntm =         1202 time step =    12.00000      hour = 
+   40.34541    
+ istep =        24904 ntm =         1203 time step =    12.00000      hour = 
+   40.37875    
+ istep =        24914 ntm =         1204 time step =    12.00000      hour = 
+   40.41208    
+ istep =        24924 ntm =         1205 time step =    12.00000      hour = 
+   40.44541    
+ istep =        24934 ntm =         1206 time step =    12.00000      hour = 
+   40.47874    
+ istep =        24944 ntm =         1207 time step =    12.00000      hour = 
+   40.51208    
+ istep =        24954 ntm =         1208 time step =    12.00000      hour = 
+   40.54541    
+ istep =        24964 ntm =         1209 time step =    12.00000      hour = 
+   40.57875    
+ istep =        24974 ntm =         1210 time step =    12.00000      hour = 
+   40.61208    
+ istep =        24984 ntm =         1211 time step =    12.00000      hour = 
+   40.64541    
+ istep =        24994 ntm =         1212 time step =    12.00000      hour = 
+   40.67875    
+ istep =        25004 ntm =         1213 time step =    12.00000      hour = 
+   40.71208    
+ istep =        25014 ntm =         1214 time step =    12.00000      hour = 
+   40.74541    
+ istep =        25024 ntm =         1215 time step =    12.00000      hour = 
+   40.77875    
+ istep =        25034 ntm =         1216 time step =    12.00000      hour = 
+   40.81208    
+ istep =        25044 ntm =         1217 time step =    12.00000      hour = 
+   40.84541    
+ istep =        25054 ntm =         1218 time step =    12.00000      hour = 
+   40.87875    
+ istep =        25064 ntm =         1219 time step =    12.00000      hour = 
+   40.91208    
+ istep =        25074 ntm =         1220 time step =    12.00000      hour = 
+   40.94541    
+ istep =        25084 ntm =         1221 time step =    12.00000      hour = 
+   40.97874    
+ istep =        25094 ntm =         1222 time step =    12.00000      hour = 
+   41.01208    
+ istep =        25104 ntm =         1223 time step =    12.00000      hour = 
+   41.04541    
+ istep =        25114 ntm =         1224 time step =    12.00000      hour = 
+   41.07875    
+ istep =        25124 ntm =         1225 time step =    12.00000      hour = 
+   41.11208    
+ istep =        25134 ntm =         1226 time step =    12.00000      hour = 
+   41.14541    
+ istep =        25144 ntm =         1227 time step =    12.00000      hour = 
+   41.17875    
+ istep =        25154 ntm =         1228 time step =    12.00000      hour = 
+   41.21208    
+ istep =        25164 ntm =         1229 time step =    12.00000      hour = 
+   41.24541    
+ istep =        25174 ntm =         1230 time step =    12.00000      hour = 
+   41.27875    
+ istep =        25184 ntm =         1231 time step =    12.00000      hour = 
+   41.31208    
+ istep =        25194 ntm =         1232 time step =    12.00000      hour = 
+   41.34541    
+ istep =        25204 ntm =         1233 time step =    12.00000      hour = 
+   41.37875    
+ istep =        25214 ntm =         1234 time step =    12.00000      hour = 
+   41.41208    
+ istep =        25224 ntm =         1235 time step =    12.00000      hour = 
+   41.44541    
+ istep =        25234 ntm =         1236 time step =    12.00000      hour = 
+   41.47874    
+ istep =        25244 ntm =         1237 time step =    12.00000      hour = 
+   41.51208    
+ istep =        25254 ntm =         1238 time step =    12.00000      hour = 
+   41.54541    
+ istep =        25264 ntm =         1239 time step =    12.00000      hour = 
+   41.57875    
+ istep =        25274 ntm =         1240 time step =    12.00000      hour = 
+   41.61208    
+ istep =        25284 ntm =         1241 time step =    12.00000      hour = 
+   41.64541    
+ istep =        25294 ntm =         1242 time step =    12.00000      hour = 
+   41.67875    
+ istep =        25304 ntm =         1243 time step =    12.00000      hour = 
+   41.71208    
+ istep =        25314 ntm =         1244 time step =    12.00000      hour = 
+   41.74541    
+ istep =        25324 ntm =         1245 time step =    12.00000      hour = 
+   41.77875    
+ istep =        25334 ntm =         1246 time step =    12.00000      hour = 
+   41.81208    
+ istep =        25344 ntm =         1247 time step =    12.00000      hour = 
+   41.84541    
+ istep =        25354 ntm =         1248 time step =    12.00000      hour = 
+   41.87875    
+ istep =        25364 ntm =         1249 time step =    12.00000      hour = 
+   41.91208    
+ istep =        25374 ntm =         1250 time step =    12.00000      hour = 
+   41.94541    
+ istep =        25384 ntm =         1251 time step =    12.00000      hour = 
+   41.97874    
+ istep =        25394 ntm =         1252 time step =    12.00000      hour = 
+   42.01208    
+ istep =        25404 ntm =         1253 time step =    12.00000      hour = 
+   42.04541    
+ istep =        25414 ntm =         1254 time step =    12.00000      hour = 
+   42.07875    
+ istep =        25424 ntm =         1255 time step =    12.00000      hour = 
+   42.11208    
+ istep =        25434 ntm =         1256 time step =    12.00000      hour = 
+   42.14541    
+ istep =        25444 ntm =         1257 time step =    12.00000      hour = 
+   42.17875    
+ istep =        25454 ntm =         1258 time step =    12.00000      hour = 
+   42.21208    
+ istep =        25464 ntm =         1259 time step =    12.00000      hour = 
+   42.24541    
+ istep =        25474 ntm =         1260 time step =    12.00000      hour = 
+   42.27875    
+ istep =        25484 ntm =         1261 time step =    12.00000      hour = 
+   42.31208    
+ istep =        25494 ntm =         1262 time step =    12.00000      hour = 
+   42.34541    
+ istep =        25504 ntm =         1263 time step =    12.00000      hour = 
+   42.37875    
+ istep =        25514 ntm =         1264 time step =    12.00000      hour = 
+   42.41208    
+ istep =        25524 ntm =         1265 time step =    12.00000      hour = 
+   42.44541    
+ istep =        25534 ntm =         1266 time step =    12.00000      hour = 
+   42.47874    
+ istep =        25544 ntm =         1267 time step =    12.00000      hour = 
+   42.51208    
+ istep =        25554 ntm =         1268 time step =    12.00000      hour = 
+   42.54541    
+ istep =        25564 ntm =         1269 time step =    12.00000      hour = 
+   42.57875    
+ istep =        25574 ntm =         1270 time step =    12.00000      hour = 
+   42.61208    
+ istep =        25584 ntm =         1271 time step =    12.00000      hour = 
+   42.64541    
+ istep =        25594 ntm =         1272 time step =    12.00000      hour = 
+   42.67875    
+ istep =        25604 ntm =         1273 time step =    12.00000      hour = 
+   42.71208    
+ istep =        25614 ntm =         1274 time step =    12.00000      hour = 
+   42.74541    
+ istep =        25624 ntm =         1275 time step =    12.00000      hour = 
+   42.77875    
+ istep =        25634 ntm =         1276 time step =    12.00000      hour = 
+   42.81208    
+ istep =        25644 ntm =         1277 time step =    12.00000      hour = 
+   42.84541    
+ istep =        25654 ntm =         1278 time step =    12.00000      hour = 
+   42.87875    
+ istep =        25664 ntm =         1279 time step =    12.00000      hour = 
+   42.91208    
+ istep =        25674 ntm =         1280 time step =    12.00000      hour = 
+   42.94541    
+ istep =        25684 ntm =         1281 time step =    12.00000      hour = 
+   42.97874    
+ istep =        25694 ntm =         1282 time step =    12.00000      hour = 
+   43.01208    
+ istep =        25704 ntm =         1283 time step =    12.00000      hour = 
+   43.04541    
+ istep =        25714 ntm =         1284 time step =    12.00000      hour = 
+   43.07875    
+ istep =        25724 ntm =         1285 time step =    12.00000      hour = 
+   43.11208    
+ istep =        25734 ntm =         1286 time step =    12.00000      hour = 
+   43.14541    
+ istep =        25744 ntm =         1287 time step =    12.00000      hour = 
+   43.17875    
+ istep =        25754 ntm =         1288 time step =    12.00000      hour = 
+   43.21208    
+ istep =        25764 ntm =         1289 time step =    12.00000      hour = 
+   43.24541    
+ istep =        25774 ntm =         1290 time step =    12.00000      hour = 
+   43.27875    
+ istep =        25784 ntm =         1291 time step =    12.00000      hour = 
+   43.31208    
+ istep =        25794 ntm =         1292 time step =    12.00000      hour = 
+   43.34541    
+ istep =        25804 ntm =         1293 time step =    12.00000      hour = 
+   43.37875    
+ istep =        25814 ntm =         1294 time step =    12.00000      hour = 
+   43.41208    
+ istep =        25824 ntm =         1295 time step =    12.00000      hour = 
+   43.44541    
+ istep =        25834 ntm =         1296 time step =    12.00000      hour = 
+   43.47874    
+ istep =        25844 ntm =         1297 time step =    12.00000      hour = 
+   43.51208    
+ istep =        25854 ntm =         1298 time step =    12.00000      hour = 
+   43.54541    
+ istep =        25864 ntm =         1299 time step =    12.00000      hour = 
+   43.57875    
+ istep =        25874 ntm =         1300 time step =    12.00000      hour = 
+   43.61208    
+ istep =        25884 ntm =         1301 time step =    12.00000      hour = 
+   43.64541    
+ istep =        25894 ntm =         1302 time step =    12.00000      hour = 
+   43.67875    
+ istep =        25904 ntm =         1303 time step =    12.00000      hour = 
+   43.71208    
+ istep =        25914 ntm =         1304 time step =    12.00000      hour = 
+   43.74541    
+ istep =        25924 ntm =         1305 time step =    12.00000      hour = 
+   43.77875    
+ istep =        25934 ntm =         1306 time step =    12.00000      hour = 
+   43.81208    
+ istep =        25944 ntm =         1307 time step =    12.00000      hour = 
+   43.84541    
+ istep =        25954 ntm =         1308 time step =    12.00000      hour = 
+   43.87875    
+ istep =        25964 ntm =         1309 time step =    12.00000      hour = 
+   43.91208    
+ istep =        25974 ntm =         1310 time step =    12.00000      hour = 
+   43.94541    
+ istep =        25984 ntm =         1311 time step =    12.00000      hour = 
+   43.97874    
+ istep =        25994 ntm =         1312 time step =    12.00000      hour = 
+   44.01208    
+ istep =        26004 ntm =         1313 time step =    12.00000      hour = 
+   44.04541    
+ istep =        26014 ntm =         1314 time step =    12.00000      hour = 
+   44.07875    
+ istep =        26024 ntm =         1315 time step =    12.00000      hour = 
+   44.11208    
+ istep =        26034 ntm =         1316 time step =    12.00000      hour = 
+   44.14541    
+ istep =        26044 ntm =         1317 time step =    12.00000      hour = 
+   44.17875    
+ istep =        26054 ntm =         1318 time step =    12.00000      hour = 
+   44.21208    
+ istep =        26064 ntm =         1319 time step =    12.00000      hour = 
+   44.24541    
+ istep =        26074 ntm =         1320 time step =    12.00000      hour = 
+   44.27875    
+ istep =        26084 ntm =         1321 time step =    12.00000      hour = 
+   44.31208    
+ istep =        26094 ntm =         1322 time step =    12.00000      hour = 
+   44.34541    
+ istep =        26104 ntm =         1323 time step =    12.00000      hour = 
+   44.37875    
+ istep =        26114 ntm =         1324 time step =    12.00000      hour = 
+   44.41208    
+ istep =        26124 ntm =         1325 time step =    12.00000      hour = 
+   44.44541    
+ istep =        26134 ntm =         1326 time step =    12.00000      hour = 
+   44.47874    
+ istep =        26144 ntm =         1327 time step =    12.00000      hour = 
+   44.51208    
+ istep =        26154 ntm =         1328 time step =    12.00000      hour = 
+   44.54541    
+ istep =        26164 ntm =         1329 time step =    12.00000      hour = 
+   44.57875    
+ istep =        26174 ntm =         1330 time step =    12.00000      hour = 
+   44.61208    
+ istep =        26184 ntm =         1331 time step =    12.00000      hour = 
+   44.64541    
+ istep =        26194 ntm =         1332 time step =    12.00000      hour = 
+   44.67875    
+ istep =        26204 ntm =         1333 time step =    12.00000      hour = 
+   44.71208    
+ istep =        26214 ntm =         1334 time step =    12.00000      hour = 
+   44.74541    
+ istep =        26224 ntm =         1335 time step =    12.00000      hour = 
+   44.77875    
+ istep =        26234 ntm =         1336 time step =    12.00000      hour = 
+   44.81208    
+ istep =        26244 ntm =         1337 time step =    12.00000      hour = 
+   44.84541    
+ istep =        26254 ntm =         1338 time step =    12.00000      hour = 
+   44.87875    
+ istep =        26264 ntm =         1339 time step =    12.00000      hour = 
+   44.91208    
+ istep =        26274 ntm =         1340 time step =    12.00000      hour = 
+   44.94541    
+ istep =        26284 ntm =         1341 time step =    12.00000      hour = 
+   44.97874    
+ istep =        26294 ntm =         1342 time step =    12.00000      hour = 
+   45.01208    
+ istep =        26304 ntm =         1343 time step =    12.00000      hour = 
+   45.04541    
+ istep =        26314 ntm =         1344 time step =    12.00000      hour = 
+   45.07875    
+ istep =        26324 ntm =         1345 time step =    12.00000      hour = 
+   45.11208    
+ istep =        26334 ntm =         1346 time step =    12.00000      hour = 
+   45.14541    
+ istep =        26344 ntm =         1347 time step =    12.00000      hour = 
+   45.17875    
+ istep =        26354 ntm =         1348 time step =    12.00000      hour = 
+   45.21208    
+ istep =        26364 ntm =         1349 time step =    12.00000      hour = 
+   45.24541    
+ istep =        26374 ntm =         1350 time step =    12.00000      hour = 
+   45.27875    
+ istep =        26384 ntm =         1351 time step =    12.00000      hour = 
+   45.31208    
+ istep =        26394 ntm =         1352 time step =    12.00000      hour = 
+   45.34541    
+ istep =        26404 ntm =         1353 time step =    12.00000      hour = 
+   45.37875    
+ istep =        26414 ntm =         1354 time step =    12.00000      hour = 
+   45.41208    
+ istep =        26424 ntm =         1355 time step =    12.00000      hour = 
+   45.44541    
+ istep =        26434 ntm =         1356 time step =    12.00000      hour = 
+   45.47874    
+ istep =        26444 ntm =         1357 time step =    12.00000      hour = 
+   45.51208    
+ istep =        26454 ntm =         1358 time step =    12.00000      hour = 
+   45.54541    
+ istep =        26464 ntm =         1359 time step =    12.00000      hour = 
+   45.57875    
+ istep =        26474 ntm =         1360 time step =    12.00000      hour = 
+   45.61208    
+ istep =        26484 ntm =         1361 time step =    12.00000      hour = 
+   45.64541    
+ istep =        26494 ntm =         1362 time step =    12.00000      hour = 
+   45.67875    
+ istep =        26504 ntm =         1363 time step =    12.00000      hour = 
+   45.71208    
+ istep =        26514 ntm =         1364 time step =    12.00000      hour = 
+   45.74541    
+ istep =        26524 ntm =         1365 time step =    12.00000      hour = 
+   45.77875    
+ istep =        26534 ntm =         1366 time step =    12.00000      hour = 
+   45.81208    
+ istep =        26544 ntm =         1367 time step =    12.00000      hour = 
+   45.84541    
+ istep =        26554 ntm =         1368 time step =    12.00000      hour = 
+   45.87875    
+ istep =        26564 ntm =         1369 time step =    12.00000      hour = 
+   45.91208    
+ istep =        26574 ntm =         1370 time step =    12.00000      hour = 
+   45.94541    
+ istep =        26584 ntm =         1371 time step =    12.00000      hour = 
+   45.97874    
+ istep =        26594 ntm =         1372 time step =    12.00000      hour = 
+   46.01208    
+ istep =        26604 ntm =         1373 time step =    12.00000      hour = 
+   46.04541    
+ istep =        26614 ntm =         1374 time step =    12.00000      hour = 
+   46.07875    
+ istep =        26624 ntm =         1375 time step =    12.00000      hour = 
+   46.11208    
+ istep =        26634 ntm =         1376 time step =    12.00000      hour = 
+   46.14541    
+ istep =        26644 ntm =         1377 time step =    12.00000      hour = 
+   46.17875    
+ istep =        26654 ntm =         1378 time step =    12.00000      hour = 
+   46.21208    
+ istep =        26664 ntm =         1379 time step =    12.00000      hour = 
+   46.24541    
+ istep =        26674 ntm =         1380 time step =    12.00000      hour = 
+   46.27875    
+ istep =        26684 ntm =         1381 time step =    12.00000      hour = 
+   46.31208    
+ istep =        26694 ntm =         1382 time step =    12.00000      hour = 
+   46.34541    
+ istep =        26704 ntm =         1383 time step =    12.00000      hour = 
+   46.37875    
+ istep =        26714 ntm =         1384 time step =    12.00000      hour = 
+   46.41208    
+ istep =        26724 ntm =         1385 time step =    12.00000      hour = 
+   46.44541    
+ istep =        26734 ntm =         1386 time step =    12.00000      hour = 
+   46.47874    
+ istep =        26744 ntm =         1387 time step =    12.00000      hour = 
+   46.51208    
+ istep =        26754 ntm =         1388 time step =    12.00000      hour = 
+   46.54541    
+ istep =        26764 ntm =         1389 time step =    12.00000      hour = 
+   46.57875    
+ istep =        26774 ntm =         1390 time step =    12.00000      hour = 
+   46.61208    
+ istep =        26784 ntm =         1391 time step =    12.00000      hour = 
+   46.64541    
+ istep =        26794 ntm =         1392 time step =    12.00000      hour = 
+   46.67875    
+ istep =        26804 ntm =         1393 time step =    12.00000      hour = 
+   46.71208    
+ istep =        26814 ntm =         1394 time step =    12.00000      hour = 
+   46.74541    
+ istep =        26829 ntm =         1395 time step =    4.800000      hour = 
+   46.77940    
+ istep =        26854 ntm =         1396 time step =    4.800000      hour = 
+   46.81272    
+ istep =        26879 ntm =         1397 time step =    4.800000      hour = 
+   46.84603    
+ istep =        26904 ntm =         1398 time step =    4.800000      hour = 
+   46.87934    
+ istep =        26929 ntm =         1399 time step =    4.800000      hour = 
+   46.91265    
+ istep =        26954 ntm =         1400 time step =    4.800000      hour = 
+   46.94596    
+ istep =        26979 ntm =         1401 time step =    4.800000      hour = 
+   46.97927    
+ istep =        27004 ntm =         1402 time step =    4.800000      hour = 
+   47.01259    
+ istep =        27029 ntm =         1403 time step =    4.800000      hour = 
+   47.04590    
+ istep =        27054 ntm =         1404 time step =    4.800000      hour = 
+   47.07921    
+ istep =        27079 ntm =         1405 time step =    4.800000      hour = 
+   47.11252    
+ istep =        27104 ntm =         1406 time step =    4.800000      hour = 
+   47.14583    
+ istep =        27129 ntm =         1407 time step =    4.800000      hour = 
+   47.17915    
+ istep =        27154 ntm =         1408 time step =    4.800000      hour = 
+   47.21246    
+ istep =        27179 ntm =         1409 time step =    4.800000      hour = 
+   47.24577    
+ istep =        27204 ntm =         1410 time step =    4.800000      hour = 
+   47.27908    
+ istep =        27229 ntm =         1411 time step =    4.800000      hour = 
+   47.31239    
+ istep =        27254 ntm =         1412 time step =    4.800000      hour = 
+   47.34570    
+ istep =        27279 ntm =         1413 time step =    4.800000      hour = 
+   47.37901    
+ istep =        27304 ntm =         1414 time step =    4.800000      hour = 
+   47.41233    
+ istep =        27329 ntm =         1415 time step =    4.800000      hour = 
+   47.44564    
+ istep =        27354 ntm =         1416 time step =    4.800000      hour = 
+   47.47895    
+ istep =        27379 ntm =         1417 time step =    4.800000      hour = 
+   47.51226    
+ istep =        27404 ntm =         1418 time step =    4.800000      hour = 
+   47.54557    
+ istep =        27429 ntm =         1419 time step =    4.800000      hour = 
+   47.57888    
+ istep =        27454 ntm =         1420 time step =    4.800000      hour = 
+   47.61220    
+ istep =        27479 ntm =         1421 time step =    4.800000      hour = 
+   47.64551    
+ istep =        27504 ntm =         1422 time step =    4.800000      hour = 
+   47.67882    
+ istep =        27529 ntm =         1423 time step =    4.800000      hour = 
+   47.71213    
+ istep =        27554 ntm =         1424 time step =    4.800000      hour = 
+   47.74544    
+ istep =        27579 ntm =         1425 time step =    4.800000      hour = 
+   47.77876    
+ istep =        27604 ntm =         1426 time step =    4.800000      hour = 
+   47.81207    
+ istep =        27629 ntm =         1427 time step =    4.800000      hour = 
+   47.84538    
+ istep =        27654 ntm =         1428 time step =    4.800000      hour = 
+   47.87869    
+ istep =        27679 ntm =         1429 time step =    4.800000      hour = 
+   47.91200    
+ istep =        27704 ntm =         1430 time step =    4.800000      hour = 
+   47.94531    
+ istep =        27729 ntm =         1431 time step =    4.800000      hour = 
+   47.97862    
