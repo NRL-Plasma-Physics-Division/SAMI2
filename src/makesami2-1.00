@@ -17,7 +17,11 @@ OBJ= hwm93.o nrlmsise00.o grid-1.00.o sami2-1.00.o
 
 #    4. intel
 
-#  f77 = ifort -save -O2 -vec_report0
+#  f77 = ifort -save -O2
+
+#    5. gfortran
+
+#  f77 = gfortran -O2 -fno-automatic
 
 .f.o:
 	$(f77) -c $*.f
