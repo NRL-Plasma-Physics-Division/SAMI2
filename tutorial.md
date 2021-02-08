@@ -61,6 +61,9 @@ Portland Group
 Intel
 : `ifort hwm93.f nrlmsise00.f grid-1.00.f sami2-1.00.f -O2 -save -o sami2.x`
 
+Gfortran
+: 'gfortran hwm93.f nrlmsise00.f grid-1.00.f sami2-1.00.f -O2 -fno-automatic -o sami2.x`
+
 In the above, the options `-s`, `-Msav`, `--sav`, and `-fno-automatic` save the values of the local variables in subroutines, and the options `-O`, `-fast` optimize the program. For Absoft Fortran 77 (v7.5) it is also necessary to use the option `-N3` so that unformatted data is written in a form that can be read by the IDL procedure `read-u.pro` discussed in the Graphics Section.
 
 Note: It is important that SAMI2 be compiled with the save or static option.
